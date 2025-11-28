@@ -1,0 +1,840 @@
+,H,A,Result
+0,Trabzonspor,Antalyaspor,1 - 0
+1,Kasimpasa,Ankaragücü,3 - 2
+2,Konyaspor,Istanbulspor,1 - 1
+3,Kayserispor,Galatasaray,0 - 0
+4,Pendikspor,Hatayspor,1 - 5
+5,Sivasspor,Samsunspor,1 - 1
+6,Adana Demirspor,Çaykur Rizespor,2 - 1
+7,Fenerbahçe,Gaziantep,2 - 1
+8,Alanyaspor,Istanbul Basaksehir,2 - 0
+9,Fatih Karagümrük,Besiktas,0 - 1
+10,Istanbulspor,Kayserispor,1 - 1
+11,Antalyaspor,Konyaspor,1 - 1
+12,Çaykur Rizespor,Alanyaspor,0 - 0
+13,Hatayspor,Kasimpasa,0 - 0
+14,Galatasaray,Trabzonspor,2 - 0
+15,Istanbul Basaksehir,Fatih Karagümrük,0 - 2
+16,Gaziantep,Sivasspor,1 - 3
+17,Besiktas,Pendikspor,1 - 1
+18,Samsunspor,Fenerbahçe,0 - 2
+19,Ankaragücü,Adana Demirspor,1 - 1
+20,Konyaspor,Gaziantep,2 - 0
+21,Kasimpasa,Pendikspor,1 - 1
+22,Trabzonspor,Çaykur Rizespor,2 - 3
+23,Sivasspor,Antalyaspor,1 - 1
+24,Kayserispor,Samsunspor,2 - 1
+25,Fatih Karagümrük,Ankaragücü,1 - 1
+26,Alanyaspor,Hatayspor,0 - 0
+27,Istanbulspor,Galatasaray,0 - 1
+28,Adana Demirspor,Besiktas,4 - 2
+29,Fenerbahçe,Istanbul Basaksehir,4 - 0
+30,Kasimpasa,Trabzonspor,1 - 5
+31,Çaykur Rizespor,Fatih Karagümrük,1 - 0
+32,Pendikspor,Alanyaspor,1 - 1
+33,Istanbul Basaksehir,Konyaspor,0 - 1
+34,Gaziantep,Galatasaray,0 - 3
+35,Antalyaspor,Kayserispor,1 - 1
+36,Besiktas,Sivasspor,2 - 0
+37,Hatayspor,Adana Demirspor,3 - 3
+38,Ankaragücü,Fenerbahçe,0 - 1
+39,Samsunspor,Istanbulspor,2 - 1
+40,Kayserispor,Gaziantep,2 - 0
+41,Konyaspor,Çaykur Rizespor,1 - 2
+42,Galatasaray,Samsunspor,4 - 2
+43,Adana Demirspor,Pendikspor,3 - 0
+44,Istanbulspor,Istanbul Basaksehir,0 - 2
+45,Fenerbahçe,Antalyaspor,3 - 2
+46,Alanyaspor,Kasimpasa,3 - 3
+47,Trabzonspor,Besiktas,3 - 0
+48,Fatih Karagümrük,Hatayspor,0 - 0
+49,Sivasspor,Ankaragücü,1 - 3
+50,Gaziantep,Istanbulspor,2 - 0
+51,Pendikspor,Fatih Karagümrük,1 - 1
+52,Çaykur Rizespor,Sivasspor,1 - 1
+53,Istanbul Basaksehir,Galatasaray,1 - 2
+54,Antalyaspor,Samsunspor,2 - 0
+55,Besiktas,Kayserispor,2 - 1
+56,Ankaragücü,Konyaspor,1 - 1
+57,Kasimpasa,Adana Demirspor,2 - 1
+58,Alanyaspor,Fenerbahçe,0 - 1
+59,Hatayspor,Trabzonspor,3 - 2
+60,Samsunspor,Gaziantep,1 - 2
+61,Sivasspor,Hatayspor,0 - 0
+62,Istanbulspor,Antalyaspor,1 - 2
+63,Trabzonspor,Pendikspor,2 - 1
+64,Galatasaray,Ankaragücü,2 - 1
+65,Fatih Karagümrük,Kasimpasa,2 - 3
+66,Fenerbahçe,Çaykur Rizespor,5 - 0
+67,Adana Demirspor,Alanyaspor,4 - 0
+68,Konyaspor,Besiktas,0 - 2
+69,Kayserispor,Istanbul Basaksehir,0 - 0
+70,Alanyaspor,Fatih Karagümrük,2 - 1
+71,Adana Demirspor,Trabzonspor,1 - 0
+72,Pendikspor,Sivasspor,2 - 3
+73,Ankaragücü,Kayserispor,3 - 0
+74,Istanbul Basaksehir,Gaziantep,2 - 0
+75,Antalyaspor,Galatasaray,0 - 2
+76,Çaykur Rizespor,Samsunspor,1 - 0
+77,Besiktas,Istanbulspor,2 - 0
+78,Hatayspor,Konyaspor,3 - 1
+79,Kasimpasa,Fenerbahçe,0 - 2
+80,Kayserispor,Çaykur Rizespor,3 - 1
+81,Gaziantep,Antalyaspor,1 - 0
+82,Konyaspor,Pendikspor,1 - 2
+83,Galatasaray,Besiktas,2 - 1
+84,Sivasspor,Kasimpasa,0 - 1
+85,Istanbulspor,Ankaragücü,2 - 1
+86,Samsunspor,Istanbul Basaksehir,0 - 0
+87,Fenerbahçe,Hatayspor,4 - 2
+88,Fatih Karagümrük,Adana Demirspor,2 - 0
+89,Trabzonspor,Alanyaspor,1 - 0
+90,Hatayspor,Kayserispor,1 - 2
+91,Kasimpasa,Istanbulspor,3 - 1
+92,Alanyaspor,Sivasspor,1 - 2
+93,Adana Demirspor,Konyaspor,3 - 0
+94,Çaykur Rizespor,Galatasaray,0 - 1
+95,Fatih Karagümrük,Trabzonspor,0 - 0
+96,Pendikspor,Fenerbahçe,0 - 5
+97,Antalyaspor,Istanbul Basaksehir,1 - 0
+98,Ankaragücü,Samsunspor,2 - 0
+99,Besiktas,Gaziantep,2 - 0
+100,Galatasaray,Kasimpasa,2 - 1
+101,Istanbulspor,Pendikspor,2 - 4
+102,Samsunspor,Hatayspor,2 - 1
+103,Fenerbahçe,Trabzonspor,2 - 3
+104,Sivasspor,Adana Demirspor,1 - 1
+105,Istanbul Basaksehir,Ankaragücü,3 - 3
+106,Konyaspor,Fatih Karagümrük,1 - 1
+107,Antalyaspor,Besiktas,3 - 2
+108,Kayserispor,Alanyaspor,1 - 0
+109,Gaziantep,Çaykur Rizespor,2 - 0
+110,Trabzonspor,Konyaspor,2 - 1
+111,Ankaragücü,Antalyaspor,0 - 4
+112,Kasimpasa,Kayserispor,3 - 4
+113,Alanyaspor,Gaziantep,0 - 3
+114,Fatih Karagümrük,Sivasspor,3 - 0
+115,Hatayspor,Galatasaray,2 - 1
+116,Pendikspor,Samsunspor,1 - 0
+117,Besiktas,Istanbul Basaksehir,1 - 0
+118,Çaykur Rizespor,Istanbulspor,1 - 0
+119,Adana Demirspor,Fenerbahçe,0 - 0
+120,Istanbulspor,Hatayspor,2 - 1
+121,Gaziantep,Ankaragücü,0 - 1
+122,Konyaspor,Kasimpasa,2 - 0
+123,Galatasaray,Alanyaspor,4 - 0
+124,Kayserispor,Adana Demirspor,1 - 1
+125,Samsunspor,Besiktas,1 - 2
+126,Antalyaspor,Çaykur Rizespor,0 - 0
+127,Fenerbahçe,Fatih Karagümrük,2 - 1
+128,Istanbul Basaksehir,Pendikspor,4 - 1
+129,Sivasspor,Trabzonspor,3 - 3
+130,Hatayspor,Antalyaspor,3 - 3
+131,Fatih Karagümrük,Istanbulspor,3 - 0
+132,Alanyaspor,Konyaspor,2 - 2
+133,Çaykur Rizespor,Istanbul Basaksehir,3 - 2
+134,Pendikspor,Galatasaray,0 - 2
+135,Adana Demirspor,Samsunspor,2 - 3
+136,Kasimpasa,Gaziantep,4 - 2
+137,Trabzonspor,Kayserispor,0 - 1
+138,Ankaragücü,Besiktas,1 - 1
+139,Fenerbahçe,Sivasspor,4 - 1
+140,Galatasaray,Adana Demirspor,3 - 1
+141,Antalyaspor,Fatih Karagümrük,2 - 1
+142,Samsunspor,Kasimpasa,4 - 2
+143,Besiktas,Fenerbahçe,1 - 3
+144,Istanbulspor,Alanyaspor,0 - 1
+145,Kayserispor,Pendikspor,2 - 0
+146,Istanbul Basaksehir,Hatayspor,1 - 0
+147,Gaziantep,Trabzonspor,1 - 3
+148,Ankaragücü,Çaykur Rizespor,1 - 1
+149,Konyaspor,Sivasspor,0 - 1
+150,Istanbul Basaksehir,Sivasspor,3 - 1
+151,Istanbulspor,Trabzonspor,
+152,Gaziantep,Adana Demirspor,2 - 2
+153,Kayserispor,Fenerbahçe,3 - 4
+154,Galatasaray,Fatih Karagümrük,1 - 0
+155,Antalyaspor,Kasimpasa,0 - 0
+156,Samsunspor,Konyaspor,1 - 1
+157,Çaykur Rizespor,Pendikspor,5 - 1
+158,Besiktas,Alanyaspor,1 - 3
+159,Ankaragücü,Hatayspor,0 - 0
+160,Sivasspor,Istanbulspor,1 - 0
+161,Fatih Karagümrük,Gaziantep,0 - 3
+162,Trabzonspor,Istanbul Basaksehir,1 - 1
+163,Konyaspor,Kayserispor,2 - 0
+164,Adana Demirspor,Antalyaspor,2 - 1
+165,Fenerbahçe,Galatasaray,0 - 0
+166,Kasimpasa,Çaykur Rizespor,2 - 2
+167,Alanyaspor,Samsunspor,3 - 1
+168,Hatayspor,Besiktas,1 - 2
+169,Pendikspor,Ankaragücü,1 - 1
+170,Gaziantep,Pendikspor,2 - 2
+171,Antalyaspor,Alanyaspor,0 - 0
+172,Besiktas,Kasimpasa,1 - 3
+173,Çaykur Rizespor,Hatayspor,2 - 0
+174,Istanbul Basaksehir,Adana Demirspor,0 - 0
+175,Samsunspor,Fatih Karagümrük,1 - 0
+176,Ankaragücü,Trabzonspor,0 - 1
+177,Kayserispor,Sivasspor,1 - 3
+178,Istanbulspor,Fenerbahçe,1 - 5
+179,Galatasaray,Konyaspor,3 - 0
+180,Pendikspor,Antalyaspor,0 - 1
+181,Alanyaspor,Ankaragücü,1 - 1
+182,Kasimpasa,Istanbul Basaksehir,0 - 3
+183,Çaykur Rizespor,Besiktas,0 - 4
+184,Hatayspor,Gaziantep,0 - 0
+185,Fatih Karagümrük,Kayserispor,4 - 1
+186,Adana Demirspor,Istanbulspor,2 - 2
+187,Fenerbahçe,Konyaspor,7 - 1
+188,Sivasspor,Galatasaray,1 - 1
+189,Trabzonspor,Samsunspor,2 - 1
+190,Hatayspor,Pendikspor,1 - 1
+191,Ankaragücü,Kasimpasa,3 - 1
+192,Istanbul Basaksehir,Alanyaspor,3 - 2
+193,Çaykur Rizespor,Adana Demirspor,1 - 0
+194,Besiktas,Fatih Karagümrük,3 - 0
+195,Istanbulspor,Konyaspor,0 - 0
+196,Antalyaspor,Trabzonspor,1 - 1
+197,Samsunspor,Sivasspor,2 - 0
+198,Gaziantep,Fenerbahçe,0 - 1
+199,Galatasaray,Kayserispor,2 - 1
+200,Kasimpasa,Hatayspor,3 - 0
+201,Fatih Karagümrük,Istanbul Basaksehir,1 - 1
+202,Alanyaspor,Çaykur Rizespor,2 - 1
+203,Pendikspor,Besiktas,4 - 0
+204,Adana Demirspor,Ankaragücü,1 - 1
+205,Sivasspor,Gaziantep,2 - 2
+206,Fenerbahçe,Samsunspor,1 - 1
+207,Konyaspor,Antalyaspor,1 - 1
+208,Trabzonspor,Galatasaray,1 - 5
+209,Kayserispor,Istanbulspor,0 - 1
+210,Hatayspor,Alanyaspor,1 - 1
+211,Pendikspor,Kasimpasa,3 - 2
+212,Besiktas,Adana Demirspor,0 - 0
+213,Ankaragücü,Fatih Karagümrük,2 - 0
+214,Gaziantep,Konyaspor,1 - 1
+215,Istanbul Basaksehir,Fenerbahçe,0 - 1
+216,Antalyaspor,Sivasspor,2 - 1
+217,Samsunspor,Kayserispor,2 - 0
+218,Galatasaray,Istanbulspor,3 - 1
+219,Çaykur Rizespor,Trabzonspor,1 - 0
+220,Alanyaspor,Pendikspor,1 - 1
+221,Adana Demirspor,Hatayspor,0 - 1
+222,Konyaspor,Istanbul Basaksehir,2 - 3
+223,Sivasspor,Besiktas,1 - 0
+224,Fatih Karagümrük,Çaykur Rizespor,4 - 0
+225,Fenerbahçe,Ankaragücü,2 - 1
+226,Istanbulspor,Samsunspor,1 - 1
+227,Kayserispor,Antalyaspor,1 - 1
+228,Trabzonspor,Kasimpasa,2 - 3
+229,Galatasaray,Gaziantep,2 - 1
+230,Hatayspor,Fatih Karagümrük,3 - 1
+231,Ankaragücü,Sivasspor,0 - 0
+232,Samsunspor,Galatasaray,0 - 2
+233,Çaykur Rizespor,Konyaspor,0 - 0
+234,Istanbul Basaksehir,Istanbulspor,2 - 0
+235,Gaziantep,Kayserispor,1 - 1
+236,Antalyaspor,Fenerbahçe,0 - 2
+237,Pendikspor,Adana Demirspor,2 - 1
+238,Kasimpasa,Alanyaspor,2 - 1
+239,Besiktas,Trabzonspor,2 - 0
+240,Adana Demirspor,Kasimpasa,1 - 3
+241,Fatih Karagümrük,Pendikspor,2 - 0
+242,Galatasaray,Istanbul Basaksehir,2 - 0
+243,Sivasspor,Çaykur Rizespor,1 - 0
+244,Istanbulspor,Gaziantep,1 - 3
+245,Konyaspor,Ankaragücü,1 - 0
+246,Fenerbahçe,Alanyaspor,2 - 2
+247,Trabzonspor,Hatayspor,2 - 0
+248,Samsunspor,Antalyaspor,2 - 0
+249,Kayserispor,Besiktas,0 - 0
+250,Kasimpasa,Fatih Karagümrük,1 - 1
+251,Antalyaspor,Istanbulspor,2 - 2
+252,Hatayspor,Sivasspor,1 - 1
+253,Çaykur Rizespor,Fenerbahçe,1 - 3
+254,Alanyaspor,Adana Demirspor,3 - 3
+255,Gaziantep,Samsunspor,1 - 1
+256,Pendikspor,Trabzonspor,0 - 2
+257,Ankaragücü,Galatasaray,0 - 3
+258,Istanbul Basaksehir,Kayserispor,2 - 3
+259,Besiktas,Konyaspor,2 - 0
+260,Samsunspor,Çaykur Rizespor,3 - 0
+261,Kayserispor,Ankaragücü,3 - 2
+262,Gaziantep,Istanbul Basaksehir,0 - 2
+263,Konyaspor,Hatayspor,2 - 0
+264,Fenerbahçe,Kasimpasa,2 - 1
+265,Sivasspor,Pendikspor,4 - 1
+266,Fatih Karagümrük,Alanyaspor,1 - 1
+267,Trabzonspor,Adana Demirspor,1 - 0
+268,Istanbulspor,Besiktas,0 - 2
+269,Galatasaray,Antalyaspor,2 - 1
+270,Kasimpasa,Sivasspor,0 - 0
+271,Ankaragücü,Istanbulspor,1 - 1
+272,Çaykur Rizespor,Kayserispor,3 - 0
+273,Hatayspor,Fenerbahçe,0 - 2
+274,Istanbul Basaksehir,Samsunspor,1 - 0
+275,Pendikspor,Konyaspor,0 - 2
+276,Besiktas,Galatasaray,0 - 1
+277,Adana Demirspor,Fatih Karagümrük,1 - 0
+278,Antalyaspor,Gaziantep,1 - 0
+279,Alanyaspor,Trabzonspor,3 - 1
+280,Galatasaray,Çaykur Rizespor,6 - 2
+281,Sivasspor,Alanyaspor,1 - 2
+282,Konyaspor,Adana Demirspor,2 - 2
+283,Trabzonspor,Fatih Karagümrük,5 - 1
+284,Istanbul Basaksehir,Antalyaspor,1 - 0
+285,Kayserispor,Hatayspor,1 - 1
+286,Istanbulspor,Kasimpasa,1 - 2
+287,Samsunspor,Ankaragücü,2 - 1
+288,Fenerbahçe,Pendikspor,4 - 1
+289,Gaziantep,Besiktas,2 - 0
+290,Pendikspor,Istanbulspor,1 - 0
+291,Fatih Karagümrük,Konyaspor,1 - 1
+292,Alanyaspor,Kayserispor,1 - 0
+293,Ankaragücü,Istanbul Basaksehir,2 - 1
+294,Besiktas,Antalyaspor,1 - 2
+295,Adana Demirspor,Sivasspor,4 - 1
+296,Çaykur Rizespor,Gaziantep,3 - 1
+297,Kasimpasa,Galatasaray,3 - 4
+298,Hatayspor,Samsunspor,3 - 0
+299,Trabzonspor,Fenerbahçe,2 - 3
+300,Istanbulspor,Çaykur Rizespor,0 - 4
+301,Galatasaray,Hatayspor,1 - 0
+302,Gaziantep,Alanyaspor,0 - 3
+303,Antalyaspor,Ankaragücü,1 - 1
+304,Sivasspor,Fatih Karagümrük,1 - 0
+305,Kayserispor,Kasimpasa,0 - 2
+306,Fenerbahçe,Adana Demirspor,4 - 2
+307,Konyaspor,Trabzonspor,1 - 3
+308,Samsunspor,Pendikspor,0 - 0
+309,Istanbul Basaksehir,Besiktas,1 - 1
+310,Trabzonspor,Sivasspor,0 - 1
+311,Kasimpasa,Konyaspor,0 - 2
+312,Ankaragücü,Gaziantep,3 - 1
+313,Adana Demirspor,Kayserispor,0 - 0
+314,Besiktas,Samsunspor,1 - 1
+315,Pendikspor,Istanbul Basaksehir,2 - 3
+316,Hatayspor,Istanbulspor,0 - 3
+317,Çaykur Rizespor,Antalyaspor,3 - 0
+318,Fatih Karagümrük,Fenerbahçe,1 - 2
+319,Alanyaspor,Galatasaray,0 - 4
+320,Besiktas,Ankaragücü,2 - 0
+321,Istanbulspor,Fatih Karagümrük,1 - 2
+322,Konyaspor,Alanyaspor,0 - 2
+323,Samsunspor,Adana Demirspor,1 - 1
+324,Kayserispor,Trabzonspor,1 - 2
+325,Istanbul Basaksehir,Çaykur Rizespor,2 - 0
+326,Antalyaspor,Hatayspor,2 - 1
+327,Galatasaray,Pendikspor,4 - 1
+328,Gaziantep,Kasimpasa,2 - 0
+329,Sivasspor,Fenerbahçe,2 - 2
+330,Adana Demirspor,Galatasaray,0 - 3
+331,Kasimpasa,Samsunspor,1 - 0
+332,Sivasspor,Konyaspor,1 - 0
+333,Hatayspor,Istanbul Basaksehir,1 - 2
+334,Fenerbahçe,Besiktas,2 - 1
+335,Pendikspor,Kayserispor,1 - 2
+336,Alanyaspor,Istanbulspor,6 - 0
+337,Trabzonspor,Gaziantep,4 - 2
+338,Çaykur Rizespor,Ankaragücü,2 - 2
+339,Fatih Karagümrük,Antalyaspor,4 - 1
+340,Ankaragücü,Alanyaspor,1 - 1
+341,Besiktas,Çaykur Rizespor,3 - 2
+342,Istanbulspor,Adana Demirspor,0 - 1
+343,Kayserispor,Fatih Karagümrük,2 - 2
+344,Samsunspor,Trabzonspor,3 - 1
+345,Istanbul Basaksehir,Kasimpasa,4 - 1
+346,Gaziantep,Hatayspor,1 - 1
+347,Galatasaray,Sivasspor,6 - 1
+348,Antalyaspor,Pendikspor,1 - 2
+349,Konyaspor,Fenerbahçe,0 - 0
+350,Fenerbahçe,Kayserispor,3 - 0
+351,Trabzonspor,Istanbulspor,3 - 0
+352,Fatih Karagümrük,Galatasaray,2 - 3
+353,Konyaspor,Samsunspor,3 - 0
+354,Adana Demirspor,Gaziantep,1 - 6
+355,Sivasspor,Istanbul Basaksehir,0 - 1
+356,Kasimpasa,Antalyaspor,3 - 1
+357,Alanyaspor,Besiktas,1 - 1
+358,Hatayspor,Ankaragücü,2 - 1
+359,Pendikspor,Çaykur Rizespor,2 - 1
+360,Istanbulspor,Sivasspor,1 - 3
+361,Antalyaspor,Adana Demirspor,2 - 1
+362,Besiktas,Hatayspor,2 - 2
+363,Ankaragücü,Pendikspor,0 - 0
+364,Samsunspor,Alanyaspor,1 - 1
+365,Gaziantep,Fatih Karagümrük,3 - 1
+366,Istanbul Basaksehir,Trabzonspor,0 - 1
+367,Kayserispor,Konyaspor,2 - 2
+368,Çaykur Rizespor,Kasimpasa,0 - 0
+369,Galatasaray,Fenerbahçe,0 - 1
+370,Alanyaspor,Antalyaspor,1 - 1
+371,Fatih Karagümrük,Samsunspor,3 - 1
+372,Sivasspor,Kayserispor,2 - 1
+373,Fenerbahçe,Istanbulspor,6 - 0
+374,Konyaspor,Galatasaray,1 - 3
+375,Pendikspor,Gaziantep,0 - 1
+376,Adana Demirspor,Istanbul Basaksehir,2 - 6
+377,Kasimpasa,Besiktas,2 - 1
+378,Trabzonspor,Ankaragücü,4 - 2
+379,Hatayspor,Çaykur Rizespor,2 - 0
+0,Galatasaray,Hatayspor,2 - 1
+1,Kasimpasa,Konyaspor,2 - 3
+2,Fenerbahçe,Adana Demirspor,1 - 0
+3,Antalyaspor,Göztepe,0 - 0
+4,Sivasspor,Trabzonspor,0 - 0
+5,Alanyaspor,Eyüpspor,1 - 1
+6,Samsunspor,Besiktas,0 - 2
+7,Çaykur Rizespor,Istanbul Basaksehir,1 - 1
+8,Bodrum,Gaziantep,0 - 1
+9,Konyaspor,Galatasaray,1 - 2
+10,Kayserispor,Sivasspor,1 - 2
+11,Adana Demirspor,Çaykur Rizespor,1 - 2
+12,Göztepe,Fenerbahçe,2 - 2
+13,Istanbul Basaksehir,Alanyaspor,4 - 2
+14,Besiktas,Antalyaspor,4 - 2
+15,Gaziantep,Samsunspor,0 - 1
+16,Hatayspor,Kasimpasa,1 - 1
+17,Eyüpspor,Bodrum,4 - 1
+18,Alanyaspor,Göztepe,1 - 1
+19,Sivasspor,Eyüpspor,0 - 1
+20,Bodrum,Konyaspor,3 - 1
+21,Kasimpasa,Adana Demirspor,2 - 2
+22,Çaykur Rizespor,Fenerbahçe,0 - 5
+23,Antalyaspor,Hatayspor,3 - 2
+24,Galatasaray,Gaziantep,3 - 1
+25,Samsunspor,Istanbul Basaksehir,2 - 0
+26,Trabzonspor,Kayserispor,2 - 2
+27,Fenerbahçe,Alanyaspor,3 - 0
+28,Çaykur Rizespor,Kasimpasa,0 - 1
+29,Konyaspor,Kayserispor,0 - 0
+30,Adana Demirspor,Galatasaray,1 - 5
+31,Göztepe,Bodrum,2 - 0
+32,Eyüpspor,Trabzonspor,0 - 0
+33,Istanbul Basaksehir,Antalyaspor,5 - 2
+34,Besiktas,Sivasspor,2 - 0
+35,Hatayspor,Samsunspor,0 - 3
+36,Sivasspor,Gaziantep,3 - 2
+37,Samsunspor,Konyaspor,0 - 1
+38,Galatasaray,Çaykur Rizespor,5 - 0
+39,Bodrum,Istanbul Basaksehir,0 - 1
+40,Kayserispor,Eyüpspor,2 - 2
+41,Kasimpasa,Fenerbahçe,0 - 2
+42,Trabzonspor,Besiktas,1 - 1
+43,Alanyaspor,Hatayspor,0 - 0
+44,Antalyaspor,Adana Demirspor,2 - 1
+45,Hatayspor,Bodrum,0 - 1
+46,Konyaspor,Sivasspor,0 - 0
+47,Fenerbahçe,Galatasaray,1 - 3
+48,Çaykur Rizespor,Samsunspor,0 - 1
+49,Kasimpasa,Antalyaspor,0 - 0
+50,Adana Demirspor,Alanyaspor,0 - 2
+51,Besiktas,Eyüpspor,2 - 1
+52,Gaziantep,Trabzonspor,0 - 0
+53,Göztepe,Kayserispor,3 - 0
+54,Sivasspor,Istanbul Basaksehir,1 - 2
+55,Samsunspor,Göztepe,4 - 3
+56,Galatasaray,Kasimpasa,3 - 3
+57,Alanyaspor,Çaykur Rizespor,1 - 0
+58,Trabzonspor,Konyaspor,3 - 2
+59,Eyüpspor,Gaziantep,3 - 2
+60,Antalyaspor,Fenerbahçe,0 - 2
+61,Bodrum,Adana Demirspor,3 - 1
+62,Kayserispor,Besiktas,0 - 3
+63,Çaykur Rizespor,Antalyaspor,2 - 1
+64,Kasimpasa,Bodrum,0 - 0
+65,Göztepe,Sivasspor,3 - 2
+66,Hatayspor,Trabzonspor,1 - 1
+67,Istanbul Basaksehir,Kayserispor,1 - 1
+68,Konyaspor,Eyüpspor,2 - 1
+69,Adana Demirspor,Samsunspor,1 - 3
+70,Galatasaray,Alanyaspor,1 - 0
+71,Gaziantep,Besiktas,1 - 1
+72,Kayserispor,Gaziantep,2 - 2
+73,Trabzonspor,Istanbul Basaksehir,1 - 0
+74,Eyüpspor,Göztepe,1 - 0
+75,Antalyaspor,Galatasaray,0 - 3
+76,Sivasspor,Hatayspor,3 - 2
+77,Besiktas,Konyaspor,2 - 0
+78,Alanyaspor,Kasimpasa,1 - 2
+79,Samsunspor,Fenerbahçe,2 - 2
+80,Bodrum,Çaykur Rizespor,0 - 1
+81,Adana Demirspor,Sivasspor,2 - 4
+82,Hatayspor,Kayserispor,0 - 1
+83,Kasimpasa,Samsunspor,1 - 4
+84,Göztepe,Trabzonspor,2 - 1
+85,Gaziantep,Konyaspor,3 - 1
+86,Alanyaspor,Antalyaspor,1 - 2
+87,Fenerbahçe,Bodrum,2 - 0
+88,Istanbul Basaksehir,Eyüpspor,1 - 1
+89,Galatasaray,Besiktas,2 - 1
+90,Gaziantep,Göztepe,2 - 1
+91,Sivasspor,Çaykur Rizespor,2 - 1
+92,Kayserispor,Adana Demirspor,0 - 0
+93,Besiktas,Kasimpasa,1 - 3
+94,Konyaspor,Istanbul Basaksehir,3 - 2
+95,Eyüpspor,Hatayspor,2 - 0
+96,Bodrum,Alanyaspor,0 - 0
+97,Trabzonspor,Fenerbahçe,2 - 3
+98,Samsunspor,Antalyaspor,2 - 0
+99,Kasimpasa,Kayserispor,1 - 2
+100,Antalyaspor,Bodrum,3 - 2
+101,Hatayspor,Gaziantep,3 - 1
+102,Adana Demirspor,Eyüpspor,0 - 1
+103,Çaykur Rizespor,Trabzonspor,3 - 1
+104,Göztepe,Konyaspor,2 - 0
+105,Galatasaray,Samsunspor,3 - 2
+106,Fenerbahçe,Sivasspor,4 - 0
+107,Istanbul Basaksehir,Besiktas,0 - 0
+108,Eyüpspor,Çaykur Rizespor,1 - 2
+109,Kayserispor,Fenerbahçe,2 - 6
+110,Gaziantep,Istanbul Basaksehir,3 - 0
+111,Bodrum,Galatasaray,0 - 1
+112,Sivasspor,Kasimpasa,0 - 0
+113,Konyaspor,Hatayspor,1 - 1
+114,Samsunspor,Alanyaspor,1 - 1
+115,Besiktas,Göztepe,2 - 4
+116,Trabzonspor,Adana Demirspor,5 - 0
+117,Antalyaspor,Sivasspor,2 - 1
+118,Samsunspor,Bodrum,4 - 0
+119,Adana Demirspor,Konyaspor,0 - 1
+120,Alanyaspor,Trabzonspor,2 - 1
+121,Istanbul Basaksehir,Göztepe,4 - 1
+122,Çaykur Rizespor,Kayserispor,3 - 0
+123,Galatasaray,Eyüpspor,2 - 2
+124,Fenerbahçe,Gaziantep,3 - 1
+125,Hatayspor,Besiktas,1 - 1
+126,Trabzonspor,Kasimpasa,2 - 2
+127,Konyaspor,Antalyaspor,1 - 1
+128,Göztepe,Adana Demirspor,3 - 1
+129,Besiktas,Fenerbahçe,1 - 0
+130,Eyüpspor,Samsunspor,3 - 0
+131,Sivasspor,Galatasaray,2 - 3
+132,Kayserispor,Alanyaspor,2 - 0
+133,Istanbul Basaksehir,Hatayspor,3 - 0
+134,Gaziantep,Çaykur Rizespor,1 - 0
+135,Kasimpasa,Eyüpspor,2 - 0
+136,Bodrum,Sivasspor,2 - 0
+137,Çaykur Rizespor,Konyaspor,1 - 1
+138,Alanyaspor,Gaziantep,3 - 0
+139,Hatayspor,Göztepe,1 - 1
+140,Antalyaspor,Kayserispor,2 - 0
+141,Fenerbahçe,Istanbul Basaksehir,3 - 1
+142,Adana Demirspor,Besiktas,2 - 1
+143,Galatasaray,Trabzonspor,4 - 3
+144,Eyüpspor,Fenerbahçe,1 - 1
+145,Sivasspor,Samsunspor,0 - 0
+146,Besiktas,Alanyaspor,1 - 1
+147,Gaziantep,Antalyaspor,2 - 0
+148,Kayserispor,Galatasaray,1 - 5
+149,Göztepe,Çaykur Rizespor,3 - 0
+150,Trabzonspor,Bodrum,1 - 0
+151,Hatayspor,Adana Demirspor,1 - 3
+152,Istanbul Basaksehir,Kasimpasa,2 - 2
+153,Çaykur Rizespor,Besiktas,1 - 1
+154,Alanyaspor,Konyaspor,2 - 1
+155,Adana Demirspor,Istanbul Basaksehir,0 - 1
+156,Antalyaspor,Eyüpspor,1 - 4
+157,Galatasaray,Göztepe,2 - 1
+158,Samsunspor,Trabzonspor,2 - 1
+159,Kasimpasa,Gaziantep,2 - 2
+160,Bodrum,Kayserispor,1 - 1
+161,Fenerbahçe,Hatayspor,2 - 1
+162,Kayserispor,Samsunspor,0 - 1
+163,Hatayspor,Çaykur Rizespor,1 - 2
+164,Besiktas,Bodrum,2 - 1
+165,Sivasspor,Alanyaspor,1 - 1
+166,Trabzonspor,Antalyaspor,5 - 0
+167,Gaziantep,Adana Demirspor,1 - 0
+168,Istanbul Basaksehir,Galatasaray,1 - 2
+169,Konyaspor,Fenerbahçe,2 - 3
+170,Göztepe,Kasimpasa,5 - 0
+171,Hatayspor,Galatasaray,1 - 1
+172,Istanbul Basaksehir,Çaykur Rizespor,2 - 0
+173,Gaziantep,Bodrum,0 - 0
+174,Besiktas,Samsunspor,0 - 0
+175,Göztepe,Antalyaspor,1 - 0
+176,Konyaspor,Kasimpasa,3 - 3
+177,Adana Demirspor,Fenerbahçe,0 - 4
+178,Eyüpspor,Alanyaspor,3 - 0
+179,Trabzonspor,Sivasspor,4 - 0
+180,Samsunspor,Gaziantep,2 - 1
+181,Sivasspor,Kayserispor,5 - 2
+182,Alanyaspor,Istanbul Basaksehir,5 - 4
+183,Galatasaray,Konyaspor,1 - 0
+184,Çaykur Rizespor,Adana Demirspor,3 - 2
+185,Bodrum,Eyüpspor,0 - 1
+186,Antalyaspor,Besiktas,1 - 1
+187,Fenerbahçe,Göztepe,3 - 2
+188,Kasimpasa,Hatayspor,5 - 4
+189,Eyüpspor,Sivasspor,1 - 0
+190,Konyaspor,Bodrum,3 - 1
+191,Hatayspor,Antalyaspor,2 - 3
+192,Kayserispor,Trabzonspor,0 - 0
+193,Istanbul Basaksehir,Samsunspor,4 - 0
+194,Adana Demirspor,Kasimpasa,3 - 5
+195,Göztepe,Alanyaspor,0 - 1
+196,Fenerbahçe,Çaykur Rizespor,3 - 2
+197,Gaziantep,Galatasaray,0 - 1
+198,Samsunspor,Hatayspor,2 - 0
+199,Kayserispor,Konyaspor,3 - 2
+200,Sivasspor,Besiktas,0 - 2
+201,Kasimpasa,Çaykur Rizespor,3 - 2
+202,Galatasaray,Adana Demirspor,
+203,Alanyaspor,Fenerbahçe,0 - 2
+204,Antalyaspor,Istanbul Basaksehir,0 - 0
+205,Trabzonspor,Eyüpspor,1 - 0
+206,Bodrum,Göztepe,0 - 0
+207,Adana Demirspor,Antalyaspor,1 - 1
+208,Gaziantep,Sivasspor,2 - 1
+209,Istanbul Basaksehir,Bodrum,0 - 1
+210,Besiktas,Trabzonspor,2 - 1
+211,Hatayspor,Alanyaspor,1 - 0
+212,Eyüpspor,Kayserispor,1 - 1
+213,Konyaspor,Samsunspor,0 - 1
+214,Fenerbahçe,Kasimpasa,3 - 1
+215,Çaykur Rizespor,Galatasaray,1 - 2
+216,Eyüpspor,Besiktas,1 - 3
+217,Bodrum,Hatayspor,1 - 0
+218,Sivasspor,Konyaspor,1 - 1
+219,Antalyaspor,Kasimpasa,2 - 1
+220,Samsunspor,Çaykur Rizespor,2 - 3
+221,Kayserispor,Göztepe,1 - 0
+222,Alanyaspor,Adana Demirspor,3 - 2
+223,Trabzonspor,Gaziantep,3 - 2
+224,Galatasaray,Fenerbahçe,0 - 0
+225,Adana Demirspor,Bodrum,0 - 0
+226,Besiktas,Kayserispor,2 - 0
+227,Çaykur Rizespor,Alanyaspor,3 - 1
+228,Kasimpasa,Galatasaray,3 - 3
+229,Fenerbahçe,Antalyaspor,3 - 0
+230,Konyaspor,Trabzonspor,1 - 0
+231,Gaziantep,Eyüpspor,3 - 1
+232,Istanbul Basaksehir,Sivasspor,1 - 0
+233,Göztepe,Samsunspor,2 - 2
+234,Bodrum,Kasimpasa,1 - 0
+235,Kayserispor,Istanbul Basaksehir,3 - 1
+236,Antalyaspor,Çaykur Rizespor,2 - 1
+237,Trabzonspor,Hatayspor,1 - 2
+238,Sivasspor,Göztepe,3 - 1
+239,Samsunspor,Adana Demirspor,3 - 2
+240,Eyüpspor,Konyaspor,2 - 1
+241,Alanyaspor,Galatasaray,1 - 2
+242,Besiktas,Gaziantep,1 - 2
+243,Galatasaray,Antalyaspor,4 - 0
+244,Gaziantep,Kayserispor,1 - 0
+245,Kasimpasa,Alanyaspor,2 - 1
+246,Istanbul Basaksehir,Trabzonspor,0 - 3
+247,Konyaspor,Besiktas,1 - 0
+248,Çaykur Rizespor,Bodrum,0 - 2
+249,Hatayspor,Sivasspor,3 - 2
+250,Göztepe,Eyüpspor,1 - 1
+251,Fenerbahçe,Samsunspor,0 - 0
+252,Kayserispor,Hatayspor,5 - 0
+253,Antalyaspor,Alanyaspor,2 - 1
+254,Bodrum,Fenerbahçe,2 - 4
+255,Konyaspor,Gaziantep,1 - 0
+256,Sivasspor,Adana Demirspor,5 - 1
+257,Samsunspor,Kasimpasa,0 - 2
+258,Trabzonspor,Göztepe,1 - 1
+259,Besiktas,Galatasaray,2 - 1
+260,Eyüpspor,Istanbul Basaksehir,1 - 3
+261,Adana Demirspor,Kayserispor,0 - 2
+262,Çaykur Rizespor,Sivasspor,1 - 1
+263,Istanbul Basaksehir,Konyaspor,1 - 0
+264,Antalyaspor,Samsunspor,2 - 1
+265,Alanyaspor,Bodrum,0 - 1
+266,Hatayspor,Eyüpspor,0 - 1
+267,Fenerbahçe,Trabzonspor,4 - 1
+268,Kasimpasa,Besiktas,1 - 1
+269,Göztepe,Gaziantep,1 - 1
+270,Samsunspor,Galatasaray,0 - 2
+271,Konyaspor,Göztepe,1 - 0
+272,Bodrum,Antalyaspor,0 - 0
+273,Besiktas,Istanbul Basaksehir,0 - 2
+274,Kayserispor,Kasimpasa,1 - 0
+275,Gaziantep,Hatayspor,2 - 1
+276,Sivasspor,Fenerbahçe,1 - 3
+277,Trabzonspor,Çaykur Rizespor,2 - 0
+278,Eyüpspor,Adana Demirspor,6 - 0
+279,Hatayspor,Konyaspor,2 - 3
+280,Galatasaray,Bodrum,2 - 0
+281,Kasimpasa,Sivasspor,3 - 1
+282,Adana Demirspor,Trabzonspor,0 - 1
+283,Göztepe,Besiktas,1 - 1
+284,Istanbul Basaksehir,Gaziantep,2 - 1
+285,Çaykur Rizespor,Eyüpspor,1 - 0
+286,Fenerbahçe,Kayserispor,3 - 3
+287,Alanyaspor,Samsunspor,1 - 0
+288,Besiktas,Hatayspor,5 - 1
+289,Sivasspor,Antalyaspor,2 - 0
+290,Gaziantep,Fenerbahçe,1 - 3
+291,Bodrum,Samsunspor,1 - 2
+292,Konyaspor,Adana Demirspor,3 - 1
+293,Trabzonspor,Alanyaspor,4 - 3
+294,Kayserispor,Çaykur Rizespor,1 - 0
+295,Eyüpspor,Galatasaray,1 - 5
+296,Göztepe,Istanbul Basaksehir,4 - 1
+297,Antalyaspor,Konyaspor,1 - 0
+298,Alanyaspor,Kayserispor,1 - 1
+299,Çaykur Rizespor,Gaziantep,2 - 0
+300,Galatasaray,Sivasspor,4 - 1
+301,Hatayspor,Istanbul Basaksehir,2 - 4
+302,Samsunspor,Eyüpspor,3 - 0
+303,Fenerbahçe,Besiktas,0 - 1
+304,Adana Demirspor,Göztepe,1 - 2
+305,Kasimpasa,Trabzonspor,1 - 1
+306,Istanbul Basaksehir,Fenerbahçe,1 - 4
+307,Gaziantep,Alanyaspor,0 - 1
+308,Konyaspor,Çaykur Rizespor,2 - 1
+309,Eyüpspor,Kasimpasa,0 - 3
+310,Trabzonspor,Galatasaray,0 - 2
+311,Sivasspor,Bodrum,0 - 0
+312,Besiktas,Adana Demirspor,4 - 1
+313,Göztepe,Hatayspor,1 - 1
+314,Kayserispor,Antalyaspor,3 - 1
+315,Adana Demirspor,Hatayspor,0 - 5
+316,Samsunspor,Sivasspor,1 - 0
+317,Bodrum,Trabzonspor,1 - 1
+318,Galatasaray,Kayserispor,3 - 0
+319,Fenerbahçe,Eyüpspor,2 - 1
+320,Alanyaspor,Besiktas,1 - 1
+321,Antalyaspor,Gaziantep,0 - 0
+322,Çaykur Rizespor,Göztepe,6 - 3
+323,Kasimpasa,Istanbul Basaksehir,2 - 3
+324,Eyüpspor,Antalyaspor,2 - 1
+325,Gaziantep,Kasimpasa,2 - 2
+326,Göztepe,Galatasaray,0 - 2
+327,Istanbul Basaksehir,Adana Demirspor,2 - 3
+328,Besiktas,Çaykur Rizespor,1 - 2
+329,Konyaspor,Alanyaspor,1 - 2
+330,Trabzonspor,Samsunspor,2 - 2
+331,Kayserispor,Bodrum,1 - 1
+332,Hatayspor,Fenerbahçe,4 - 2
+333,Antalyaspor,Trabzonspor,0 - 2
+334,Kasimpasa,Göztepe,1 - 2
+335,Galatasaray,Istanbul Basaksehir,2 - 0
+336,Çaykur Rizespor,Hatayspor,5 - 2
+337,Fenerbahçe,Konyaspor,2 - 1
+338,Alanyaspor,Sivasspor,2 - 0
+339,Adana Demirspor,Gaziantep,2 - 2
+340,Samsunspor,Kayserispor,2 - 1
+341,Bodrum,Besiktas,0 - 4
+0,Gaziantep,Galatasaray,0 - 3
+1,Samsunspor,Gençlerbirligi,2 - 1
+2,Antalyaspor,Kasimpasa,2 - 1
+3,Çaykur Rizespor,Göztepe,0 - 3
+4,Eyüpspor,Konyaspor,1 - 4
+5,Trabzonspor,Kocaelispor,1 - 0
+6,Fatih Karagümrük,Istanbul Basaksehir,0 - 2
+7,Fenerbahçe,Alanyaspor,2 - 2
+8,Kayserispor,Besiktas,0 - 4
+9,Galatasaray,Fatih Karagümrük,3 - 0
+10,Kocaelispor,Samsunspor,0 - 1
+11,Alanyaspor,Çaykur Rizespor,0 - 0
+12,Göztepe,Fenerbahçe,0 - 0
+13,Konyaspor,Gaziantep,3 - 0
+14,Gençlerbirligi,Antalyaspor,0 - 1
+15,Besiktas,Eyüpspor,2 - 1
+16,Istanbul Basaksehir,Kayserispor,1 - 1
+17,Kasimpasa,Trabzonspor,0 - 1
+18,Konyaspor,Besiktas,
+19,Çaykur Rizespor,Istanbul Basaksehir,
+20,Fatih Karagümrük,Göztepe,0 - 2
+21,Gaziantep,Gençlerbirligi,2 - 1
+22,Fenerbahçe,Kocaelispor,3 - 1
+23,Trabzonspor,Antalyaspor,1 - 0
+24,Kayserispor,Galatasaray,0 - 4
+25,Eyüpspor,Alanyaspor,2 - 1
+26,Samsunspor,Kasimpasa,0 - 0
+27,Göztepe,Konyaspor,1 - 1
+28,Kasimpasa,Gaziantep,2 - 3
+29,Kocaelispor,Kayserispor,1 - 1
+30,Antalyaspor,Fatih Karagümrük,1 - 2
+31,Galatasaray,Çaykur Rizespor,3 - 1
+32,Istanbul Basaksehir,Eyüpspor,0 - 0
+33,Gençlerbirligi,Fenerbahçe,1 - 3
+34,Trabzonspor,Samsunspor,1 - 1
+35,Alanyaspor,Besiktas,2 - 0
+36,Eyüpspor,Galatasaray,0 - 2
+37,Samsunspor,Antalyaspor,1 - 2
+38,Fatih Karagümrük,Kasimpasa,0 - 1
+39,Konyaspor,Alanyaspor,1 - 2
+40,Besiktas,Istanbul Basaksehir,2 - 1
+41,Kayserispor,Göztepe,1 - 1
+42,Gaziantep,Kocaelispor,2 - 0
+43,Fenerbahçe,Trabzonspor,1 - 0
+44,Çaykur Rizespor,Gençlerbirligi,1 - 0
+45,Göztepe,Besiktas,3 - 0
+46,Gençlerbirligi,Eyüpspor,1 - 0
+47,Antalyaspor,Kayserispor,1 - 1
+48,Trabzonspor,Gaziantep,1 - 1
+49,Istanbul Basaksehir,Alanyaspor,1 - 1
+50,Kocaelispor,Çaykur Rizespor,1 - 1
+51,Kasimpasa,Fenerbahçe,1 - 1
+52,Samsunspor,Fatih Karagümrük,3 - 2
+53,Galatasaray,Konyaspor,3 - 1
+54,Alanyaspor,Galatasaray,0 - 1
+55,Eyüpspor,Göztepe,0 - 0
+56,Gaziantep,Samsunspor,2 - 2
+57,Fatih Karagümrük,Trabzonspor,3 - 4
+58,Konyaspor,Istanbul Basaksehir,2 - 1
+59,Çaykur Rizespor,Kasimpasa,1 - 2
+60,Fenerbahçe,Antalyaspor,2 - 0
+61,Kayserispor,Gençlerbirligi,1 - 1
+62,Besiktas,Kocaelispor,3 - 1
+63,Antalyaspor,Çaykur Rizespor,2 - 5
+64,Trabzonspor,Kayserispor,4 - 0
+65,Gençlerbirligi,Alanyaspor,2 - 2
+66,Kocaelispor,Eyüpspor,1 - 0
+67,Galatasaray,Besiktas,1 - 1
+68,Kasimpasa,Konyaspor,1 - 1
+69,Fatih Karagümrük,Gaziantep,0 - 2
+70,Samsunspor,Fenerbahçe,0 - 0
+71,Göztepe,Istanbul Basaksehir,1 - 0
+72,Konyaspor,Kocaelispor,2 - 3
+73,Besiktas,Gençlerbirligi,1 - 2
+74,Çaykur Rizespor,Trabzonspor,1 - 2
+75,Istanbul Basaksehir,Galatasaray,1 - 2
+76,Kayserispor,Samsunspor,1 - 3
+77,Alanyaspor,Göztepe,1 - 0
+78,Gaziantep,Antalyaspor,3 - 2
+79,Fenerbahçe,Fatih Karagümrük,2 - 1
+80,Eyüpspor,Kasimpasa,2 - 0
+81,Fatih Karagümrük,Kayserispor,2 - 2
+82,Kocaelispor,Alanyaspor,2 - 0
+83,Trabzonspor,Eyüpspor,2 - 0
+84,Antalyaspor,Istanbul Basaksehir,0 - 4
+85,Galatasaray,Göztepe,3 - 1
+86,Gençlerbirligi,Konyaspor,1 - 2
+87,Kasimpasa,Besiktas,1 - 1
+88,Samsunspor,Çaykur Rizespor,1 - 1
+89,Gaziantep,Fenerbahçe,0 - 4
+90,Istanbul Basaksehir,Kocaelispor,1 - 0
+91,Göztepe,Gençlerbirligi,1 - 0
+92,Galatasaray,Trabzonspor,0 - 0
+93,Konyaspor,Samsunspor,1 - 3
+94,Kayserispor,Kasimpasa,3 - 2
+95,Besiktas,Fenerbahçe,2 - 3
+96,Eyüpspor,Antalyaspor,0 - 1
+97,Alanyaspor,Gaziantep,0 - 0
+98,Çaykur Rizespor,Fatih Karagümrük,1 - 0
+99,Gençlerbirligi,Istanbul Basaksehir,2 - 1
+100,Gaziantep,Çaykur Rizespor,2 - 2
+101,Trabzonspor,Alanyaspor,1 - 1
+102,Kasimpasa,Göztepe,0 - 2
+103,Antalyaspor,Besiktas,1 - 3
+104,Fatih Karagümrük,Konyaspor,2 - 0
+105,Kocaelispor,Galatasaray,1 - 0
+106,Samsunspor,Eyüpspor,1 - 0
+107,Fenerbahçe,Kayserispor,4 - 2
+108,Kayserispor,Gaziantep,0 - 3
+109,Eyüpspor,Fatih Karagümrük,1 - 1
+110,Galatasaray,Gençlerbirligi,3 - 2
+111,Göztepe,Kocaelispor,0 - 0
+112,Besiktas,Samsunspor,1 - 1
+113,Alanyaspor,Kasimpasa,1 - 2
+114,Çaykur Rizespor,Fenerbahçe,2 - 5
+115,Konyaspor,Antalyaspor,0 - 0
+116,Istanbul Basaksehir,Trabzonspor,3 - 4

@@ -1,0 +1,631 @@
+,H,A,Result,Rez1,Rez2
+0,SV Werder Bremen,FC Bayern München,0 - 4,0,4
+1,VfB Stuttgart,VfL Bochum 1848,5 - 0,5,0
+2,FC Augsburg,Borussia Mönchengladbach,4 - 4,4,4
+3,TSG Hoffenheim,Sport-Club Freiburg,1 - 2,1,2
+4,VfL Wolfsburg,1. FC Heidenheim 1846,2 - 0,2,0
+5,Bayer 04 Leverkusen,RB Leipzig,3 - 2,3,2
+6,Borussia Dortmund,1. FC Köln,1 - 0,1,0
+7,1. FC Union Berlin,1. FSV Mainz 05,4 - 1,4,1
+8,Eintracht Frankfurt,SV Darmstadt 98,1 - 0,1,0
+9,RB Leipzig,VfB Stuttgart,5 - 1,5,1
+10,SV Darmstadt 98,1. FC Union Berlin,1 - 4,1,4
+11,1. FC Heidenheim 1846,TSG Hoffenheim,2 - 3,2,3
+12,VfL Bochum 1848,Borussia Dortmund,1 - 1,1,1
+13,1. FC Köln,VfL Wolfsburg,1 - 2,1,2
+14,Sport-Club Freiburg,SV Werder Bremen,1 - 0,1,0
+15,Borussia Mönchengladbach,Bayer 04 Leverkusen,0 - 3,0,3
+16,1. FSV Mainz 05,Eintracht Frankfurt,1 - 1,1,1
+17,FC Bayern München,FC Augsburg,3 - 1,3,1
+18,Borussia Dortmund,1. FC Heidenheim 1846,2 - 2,2,2
+19,VfB Stuttgart,Sport-Club Freiburg,5 - 0,5,0
+20,FC Augsburg,VfL Bochum 1848,2 - 2,2,2
+21,SV Werder Bremen,1. FSV Mainz 05,4 - 0,4,0
+22,TSG Hoffenheim,VfL Wolfsburg,3 - 1,3,1
+23,Bayer 04 Leverkusen,SV Darmstadt 98,5 - 1,5,1
+24,Borussia Mönchengladbach,FC Bayern München,1 - 2,1,2
+25,Eintracht Frankfurt,1. FC Köln,1 - 1,1,1
+26,1. FC Union Berlin,RB Leipzig,0 - 3,0,3
+27,FC Bayern München,Bayer 04 Leverkusen,2 - 2,2,2
+28,1. FC Köln,TSG Hoffenheim,1 - 3,1,3
+29,1. FSV Mainz 05,VfB Stuttgart,1 - 3,1,3
+30,VfL Wolfsburg,1. FC Union Berlin,2 - 1,2,1
+31,Sport-Club Freiburg,Borussia Dortmund,2 - 4,2,4
+32,RB Leipzig,FC Augsburg,3 - 0,3,0
+33,VfL Bochum 1848,Eintracht Frankfurt,1 - 1,1,1
+34,1. FC Heidenheim 1846,SV Werder Bremen,4 - 2,4,2
+35,SV Darmstadt 98,Borussia Mönchengladbach,3 - 3,3,3
+36,VfB Stuttgart,SV Darmstadt 98,3 - 1,3,1
+37,FC Augsburg,1. FSV Mainz 05,2 - 1,2,1
+38,Borussia Mönchengladbach,RB Leipzig,0 - 1,0,1
+39,1. FC Union Berlin,TSG Hoffenheim,0 - 2,0,2
+40,Borussia Dortmund,VfL Wolfsburg,1 - 0,1,0
+41,FC Bayern München,VfL Bochum 1848,7 - 0,7,0
+42,SV Werder Bremen,1. FC Köln,2 - 1,2,1
+43,Bayer 04 Leverkusen,1. FC Heidenheim 1846,4 - 1,4,1
+44,Eintracht Frankfurt,Sport-Club Freiburg,0 - 0,0,0
+45,TSG Hoffenheim,Borussia Dortmund,1 - 3,1,3
+46,1. FC Heidenheim 1846,1. FC Union Berlin,1 - 0,1,0
+47,VfL Bochum 1848,Borussia Mönchengladbach,1 - 3,1,3
+48,1. FC Köln,VfB Stuttgart,0 - 2,0,2
+49,1. FSV Mainz 05,Bayer 04 Leverkusen,0 - 3,0,3
+50,VfL Wolfsburg,Eintracht Frankfurt,2 - 0,2,0
+51,RB Leipzig,FC Bayern München,2 - 2,2,2
+52,SV Darmstadt 98,SV Werder Bremen,4 - 2,4,2
+53,Sport-Club Freiburg,FC Augsburg,2 - 0,2,0
+54,Borussia Mönchengladbach,1. FSV Mainz 05,2 - 2,2,2
+55,VfB Stuttgart,VfL Wolfsburg,3 - 1,3,1
+56,FC Augsburg,SV Darmstadt 98,1 - 2,1,2
+57,RB Leipzig,VfL Bochum 1848,0 - 0,0,0
+58,Borussia Dortmund,1. FC Union Berlin,4 - 2,4,2
+59,SV Werder Bremen,TSG Hoffenheim,2 - 3,2,3
+60,Bayer 04 Leverkusen,1. FC Köln,3 - 0,3,0
+61,FC Bayern München,Sport-Club Freiburg,3 - 0,3,0
+62,Eintracht Frankfurt,1. FC Heidenheim 1846,2 - 0,2,0
+63,Borussia Dortmund,SV Werder Bremen,1 - 0,1,0
+64,SV Darmstadt 98,RB Leipzig,1 - 3,1,3
+65,TSG Hoffenheim,Eintracht Frankfurt,1 - 3,1,3
+66,VfL Wolfsburg,Bayer 04 Leverkusen,1 - 2,1,2
+67,Sport-Club Freiburg,VfL Bochum 1848,2 - 1,2,1
+68,1. FC Union Berlin,VfB Stuttgart,0 - 3,0,3
+69,1. FSV Mainz 05,FC Bayern München,1 - 3,1,3
+70,1. FC Köln,Borussia Mönchengladbach,3 - 1,3,1
+71,1. FC Heidenheim 1846,FC Augsburg,2 - 5,2,5
+72,VfL Bochum 1848,1. FSV Mainz 05,2 - 2,2,2
+73,VfB Stuttgart,TSG Hoffenheim,2 - 3,2,3
+74,FC Augsburg,VfL Wolfsburg,3 - 2,3,2
+75,SV Werder Bremen,1. FC Union Berlin,2 - 0,2,0
+76,Borussia Mönchengladbach,1. FC Heidenheim 1846,2 - 1,2,1
+77,FC Bayern München,SV Darmstadt 98,8 - 0,8,0
+78,RB Leipzig,1. FC Köln,6 - 0,6,0
+79,Eintracht Frankfurt,Borussia Dortmund,3 - 3,3,3
+80,Bayer 04 Leverkusen,Sport-Club Freiburg,2 - 1,2,1
+81,SV Darmstadt 98,VfL Bochum 1848,1 - 2,1,2
+82,TSG Hoffenheim,Bayer 04 Leverkusen,2 - 3,2,3
+83,1. FC Köln,FC Augsburg,1 - 1,1,1
+84,1. FSV Mainz 05,RB Leipzig,2 - 0,2,0
+85,Sport-Club Freiburg,Borussia Mönchengladbach,3 - 3,3,3
+86,1. FC Union Berlin,Eintracht Frankfurt,0 - 3,0,3
+87,Borussia Dortmund,FC Bayern München,0 - 4,0,4
+88,VfL Wolfsburg,SV Werder Bremen,2 - 2,2,2
+89,1. FC Heidenheim 1846,VfB Stuttgart,2 - 0,2,0
+90,Borussia Mönchengladbach,VfL Wolfsburg,4 - 0,4,0
+91,SV Darmstadt 98,1. FSV Mainz 05,0 - 0,0,0
+92,VfB Stuttgart,Borussia Dortmund,2 - 1,2,1
+93,FC Augsburg,TSG Hoffenheim,1 - 1,1,1
+94,FC Bayern München,1. FC Heidenheim 1846,4 - 2,4,2
+95,VfL Bochum 1848,1. FC Köln,1 - 1,1,1
+96,Bayer 04 Leverkusen,1. FC Union Berlin,4 - 0,4,0
+97,SV Werder Bremen,Eintracht Frankfurt,2 - 2,2,2
+98,RB Leipzig,Sport-Club Freiburg,3 - 1,3,1
+99,1. FC Köln,FC Bayern München,0 - 1,0,1
+100,SV Werder Bremen,Bayer 04 Leverkusen,0 - 3,0,3
+101,VfL Wolfsburg,RB Leipzig,2 - 1,2,1
+102,Sport-Club Freiburg,SV Darmstadt 98,1 - 1,1,1
+103,1. FC Union Berlin,FC Augsburg,1 - 1,1,1
+104,Borussia Dortmund,Borussia Mönchengladbach,4 - 2,4,2
+105,Eintracht Frankfurt,VfB Stuttgart,1 - 2,1,2
+106,1. FC Heidenheim 1846,VfL Bochum 1848,0 - 0,0,0
+107,TSG Hoffenheim,1. FSV Mainz 05,1 - 1,1,1
+108,SV Darmstadt 98,1. FC Köln,0 - 1,0,1
+109,VfL Bochum 1848,VfL Wolfsburg,3 - 1,3,1
+110,Borussia Mönchengladbach,TSG Hoffenheim,2 - 1,2,1
+111,RB Leipzig,1. FC Heidenheim 1846,2 - 1,2,1
+112,VfB Stuttgart,SV Werder Bremen,2 - 0,2,0
+113,1. FSV Mainz 05,Sport-Club Freiburg,0 - 1,0,1
+114,Bayer 04 Leverkusen,Borussia Dortmund,1 - 1,1,1
+115,FC Augsburg,Eintracht Frankfurt,2 - 1,2,1
+116,FC Bayern München,1. FC Union Berlin,1 - 0,1,0
+117,TSG Hoffenheim,VfL Bochum 1848,3 - 1,3,1
+118,1. FC Heidenheim 1846,SV Darmstadt 98,3 - 2,3,2
+119,SV Werder Bremen,FC Augsburg,2 - 0,2,0
+120,VfL Wolfsburg,Sport-Club Freiburg,0 - 1,0,1
+121,Eintracht Frankfurt,FC Bayern München,5 - 1,5,1
+122,1. FC Union Berlin,Borussia Mönchengladbach,3 - 1,3,1
+123,Borussia Dortmund,RB Leipzig,2 - 3,2,3
+124,VfB Stuttgart,Bayer 04 Leverkusen,1 - 1,1,1
+125,1. FC Köln,1. FSV Mainz 05,0 - 0,0,0
+126,Borussia Mönchengladbach,SV Werder Bremen,2 - 2,2,2
+127,SV Darmstadt 98,VfL Wolfsburg,0 - 1,0,1
+128,FC Augsburg,Borussia Dortmund,1 - 1,1,1
+129,VfL Bochum 1848,1. FC Union Berlin,3 - 0,3,0
+130,1. FSV Mainz 05,1. FC Heidenheim 1846,0 - 1,0,1
+131,RB Leipzig,TSG Hoffenheim,3 - 1,3,1
+132,Sport-Club Freiburg,1. FC Köln,2 - 0,2,0
+133,Bayer 04 Leverkusen,Eintracht Frankfurt,3 - 0,3,0
+134,FC Bayern München,VfB Stuttgart,3 - 0,3,0
+135,SV Werder Bremen,RB Leipzig,1 - 1,1,1
+136,TSG Hoffenheim,SV Darmstadt 98,3 - 3,3,3
+137,Borussia Dortmund,1. FSV Mainz 05,1 - 1,1,1
+138,1. FC Union Berlin,1. FC Köln,2 - 0,2,0
+139,1. FC Heidenheim 1846,Sport-Club Freiburg,3 - 2,3,2
+140,VfB Stuttgart,FC Augsburg,3 - 0,3,0
+141,VfL Wolfsburg,FC Bayern München,1 - 2,1,2
+142,Eintracht Frankfurt,Borussia Mönchengladbach,2 - 1,2,1
+143,Bayer 04 Leverkusen,VfL Bochum 1848,4 - 0,4,0
+144,FC Bayern München,TSG Hoffenheim,3 - 0,3,0
+145,FC Augsburg,Bayer 04 Leverkusen,0 - 1,0,1
+146,1. FC Köln,1. FC Heidenheim 1846,1 - 1,1,1
+147,1. FSV Mainz 05,VfL Wolfsburg,1 - 1,1,1
+148,Sport-Club Freiburg,1. FC Union Berlin,0 - 0,0,0
+149,RB Leipzig,Eintracht Frankfurt,0 - 1,0,1
+150,SV Darmstadt 98,Borussia Dortmund,0 - 3,0,3
+151,VfL Bochum 1848,SV Werder Bremen,1 - 1,1,1
+152,Borussia Mönchengladbach,VfB Stuttgart,3 - 1,3,1
+153,SV Darmstadt 98,Eintracht Frankfurt,2 - 2,2,2
+154,1. FC Heidenheim 1846,VfL Wolfsburg,1 - 1,1,1
+155,VfL Bochum 1848,VfB Stuttgart,1 - 0,1,0
+156,1. FC Köln,Borussia Dortmund,0 - 4,0,4
+157,Sport-Club Freiburg,TSG Hoffenheim,3 - 2,3,2
+158,RB Leipzig,Bayer 04 Leverkusen,2 - 3,2,3
+159,FC Bayern München,SV Werder Bremen,0 - 1,0,1
+160,Borussia Mönchengladbach,FC Augsburg,1 - 2,1,2
+161,1. FSV Mainz 05,1. FC Union Berlin,1 - 1,1,1
+162,Eintracht Frankfurt,1. FSV Mainz 05,1 - 0,1,0
+163,VfB Stuttgart,RB Leipzig,5 - 2,5,2
+164,FC Augsburg,FC Bayern München,2 - 3,2,3
+165,SV Werder Bremen,Sport-Club Freiburg,3 - 1,3,1
+166,TSG Hoffenheim,1. FC Heidenheim 1846,1 - 1,1,1
+167,VfL Wolfsburg,1. FC Köln,1 - 1,1,1
+168,Bayer 04 Leverkusen,Borussia Mönchengladbach,0 - 0,0,0
+169,1. FC Union Berlin,SV Darmstadt 98,1 - 0,1,0
+170,Borussia Dortmund,VfL Bochum 1848,3 - 1,3,1
+171,1. FC Heidenheim 1846,Borussia Dortmund,0 - 0,0,0
+172,SV Darmstadt 98,Bayer 04 Leverkusen,0 - 2,0,2
+173,VfL Bochum 1848,FC Augsburg,1 - 1,1,1
+174,1. FSV Mainz 05,SV Werder Bremen,0 - 1,0,1
+175,Sport-Club Freiburg,VfB Stuttgart,1 - 3,1,3
+176,FC Bayern München,Borussia Mönchengladbach,3 - 1,3,1
+177,1. FC Köln,Eintracht Frankfurt,2 - 0,2,0
+178,VfL Wolfsburg,TSG Hoffenheim,2 - 2,2,2
+179,RB Leipzig,1. FC Union Berlin,2 - 0,2,0
+180,Borussia Dortmund,Sport-Club Freiburg,3 - 0,3,0
+181,FC Augsburg,RB Leipzig,2 - 2,2,2
+182,SV Werder Bremen,1. FC Heidenheim 1846,1 - 2,1,2
+183,Borussia Mönchengladbach,SV Darmstadt 98,0 - 0,0,0
+184,Eintracht Frankfurt,VfL Bochum 1848,1 - 1,1,1
+185,1. FC Union Berlin,VfL Wolfsburg,1 - 0,1,0
+186,Bayer 04 Leverkusen,FC Bayern München,3 - 0,3,0
+187,VfB Stuttgart,1. FSV Mainz 05,3 - 1,3,1
+188,TSG Hoffenheim,1. FC Köln,1 - 1,1,1
+189,1. FC Köln,SV Werder Bremen,0 - 1,0,1
+190,SV Darmstadt 98,VfB Stuttgart,1 - 2,1,2
+191,1. FC Heidenheim 1846,Bayer 04 Leverkusen,1 - 2,1,2
+192,TSG Hoffenheim,1. FC Union Berlin,0 - 1,0,1
+193,1. FSV Mainz 05,FC Augsburg,1 - 0,1,0
+194,VfL Wolfsburg,Borussia Dortmund,1 - 1,1,1
+195,RB Leipzig,Borussia Mönchengladbach,2 - 0,2,0
+196,Sport-Club Freiburg,Eintracht Frankfurt,3 - 3,3,3
+197,VfL Bochum 1848,FC Bayern München,3 - 2,3,2
+198,Bayer 04 Leverkusen,1. FSV Mainz 05,2 - 1,2,1
+199,VfB Stuttgart,1. FC Köln,1 - 1,1,1
+200,SV Werder Bremen,SV Darmstadt 98,1 - 1,1,1
+201,Borussia Mönchengladbach,VfL Bochum 1848,5 - 2,5,2
+202,1. FC Union Berlin,1. FC Heidenheim 1846,2 - 2,2,2
+203,FC Bayern München,RB Leipzig,2 - 1,2,1
+204,Eintracht Frankfurt,VfL Wolfsburg,2 - 2,2,2
+205,Borussia Dortmund,TSG Hoffenheim,2 - 3,2,3
+206,FC Augsburg,Sport-Club Freiburg,2 - 1,2,1
+207,Sport-Club Freiburg,FC Bayern München,2 - 2,2,2
+208,SV Darmstadt 98,FC Augsburg,0 - 6,0,6
+209,1. FC Heidenheim 1846,Eintracht Frankfurt,1 - 2,1,2
+210,VfL Bochum 1848,RB Leipzig,1 - 4,1,4
+211,1. FSV Mainz 05,Borussia Mönchengladbach,1 - 1,1,1
+212,1. FC Union Berlin,Borussia Dortmund,0 - 2,0,2
+213,VfL Wolfsburg,VfB Stuttgart,2 - 3,2,3
+214,1. FC Köln,Bayer 04 Leverkusen,0 - 2,0,2
+215,TSG Hoffenheim,SV Werder Bremen,2 - 1,2,1
+216,VfB Stuttgart,1. FC Union Berlin,2 - 0,2,0
+217,FC Augsburg,1. FC Heidenheim 1846,1 - 0,1,0
+218,Borussia Mönchengladbach,1. FC Köln,3 - 3,3,3
+219,RB Leipzig,SV Darmstadt 98,2 - 0,2,0
+220,FC Bayern München,1. FSV Mainz 05,8 - 1,8,1
+221,SV Werder Bremen,Borussia Dortmund,1 - 2,1,2
+222,VfL Bochum 1848,Sport-Club Freiburg,1 - 2,1,2
+223,Eintracht Frankfurt,TSG Hoffenheim,3 - 1,3,1
+224,Bayer 04 Leverkusen,VfL Wolfsburg,2 - 0,2,0
+225,1. FC Köln,RB Leipzig,1 - 5,1,5
+226,SV Darmstadt 98,FC Bayern München,2 - 5,2,5
+227,1. FC Heidenheim 1846,Borussia Mönchengladbach,1 - 1,1,1
+228,1. FSV Mainz 05,VfL Bochum 1848,2 - 0,2,0
+229,VfL Wolfsburg,FC Augsburg,1 - 3,1,3
+230,1. FC Union Berlin,SV Werder Bremen,2 - 1,2,1
+231,TSG Hoffenheim,VfB Stuttgart,0 - 3,0,3
+232,Sport-Club Freiburg,Bayer 04 Leverkusen,2 - 3,2,3
+233,Borussia Dortmund,Eintracht Frankfurt,3 - 1,3,1
+234,SV Werder Bremen,VfL Wolfsburg,0 - 2,0,2
+235,Borussia Mönchengladbach,Sport-Club Freiburg,0 - 3,0,3
+236,Eintracht Frankfurt,1. FC Union Berlin,0 - 0,0,0
+237,Bayer 04 Leverkusen,TSG Hoffenheim,2 - 1,2,1
+238,RB Leipzig,1. FSV Mainz 05,0 - 0,0,0
+239,FC Bayern München,Borussia Dortmund,0 - 2,0,2
+240,FC Augsburg,1. FC Köln,1 - 1,1,1
+241,VfB Stuttgart,1. FC Heidenheim 1846,3 - 3,3,3
+242,VfL Bochum 1848,SV Darmstadt 98,2 - 2,2,2
+243,Eintracht Frankfurt,SV Werder Bremen,1 - 1,1,1
+244,1. FC Heidenheim 1846,FC Bayern München,3 - 2,3,2
+245,1. FC Köln,VfL Bochum 1848,2 - 1,2,1
+246,1. FSV Mainz 05,SV Darmstadt 98,4 - 0,4,0
+247,Sport-Club Freiburg,RB Leipzig,1 - 4,1,4
+248,1. FC Union Berlin,Bayer 04 Leverkusen,0 - 1,0,1
+249,Borussia Dortmund,VfB Stuttgart,0 - 1,0,1
+250,TSG Hoffenheim,FC Augsburg,3 - 1,3,1
+251,VfL Wolfsburg,Borussia Mönchengladbach,1 - 3,1,3
+252,FC Augsburg,1. FC Union Berlin,2 - 0,2,0
+253,VfL Bochum 1848,1. FC Heidenheim 1846,1 - 1,1,1
+254,Borussia Mönchengladbach,Borussia Dortmund,1 - 2,1,2
+255,1. FSV Mainz 05,TSG Hoffenheim,4 - 1,4,1
+256,RB Leipzig,VfL Wolfsburg,3 - 0,3,0
+257,FC Bayern München,1. FC Köln,2 - 0,2,0
+258,VfB Stuttgart,Eintracht Frankfurt,3 - 0,3,0
+259,SV Darmstadt 98,Sport-Club Freiburg,0 - 1,0,1
+260,Bayer 04 Leverkusen,SV Werder Bremen,5 - 0,5,0
+261,Eintracht Frankfurt,FC Augsburg,3 - 1,3,1
+262,1. FC Heidenheim 1846,RB Leipzig,1 - 2,1,2
+263,TSG Hoffenheim,Borussia Mönchengladbach,4 - 3,4,3
+264,1. FC Köln,SV Darmstadt 98,0 - 2,0,2
+265,VfL Wolfsburg,VfL Bochum 1848,1 - 0,1,0
+266,1. FC Union Berlin,FC Bayern München,1 - 5,1,5
+267,SV Werder Bremen,VfB Stuttgart,2 - 1,2,1
+268,Borussia Dortmund,Bayer 04 Leverkusen,1 - 1,1,1
+269,Sport-Club Freiburg,1. FSV Mainz 05,1 - 1,1,1
+270,VfL Bochum 1848,TSG Hoffenheim,3 - 2,3,2
+271,FC Augsburg,SV Werder Bremen,0 - 3,0,3
+272,Sport-Club Freiburg,VfL Wolfsburg,1 - 2,1,2
+273,RB Leipzig,Borussia Dortmund,4 - 1,4,1
+274,FC Bayern München,Eintracht Frankfurt,2 - 1,2,1
+275,Bayer 04 Leverkusen,VfB Stuttgart,2 - 2,2,2
+276,Borussia Mönchengladbach,1. FC Union Berlin,0 - 0,0,0
+277,1. FSV Mainz 05,1. FC Köln,1 - 1,1,1
+278,SV Darmstadt 98,1. FC Heidenheim 1846,0 - 1,0,1
+279,TSG Hoffenheim,RB Leipzig,1 - 1,1,1
+280,VfB Stuttgart,FC Bayern München,3 - 1,3,1
+281,SV Werder Bremen,Borussia Mönchengladbach,2 - 2,2,2
+282,VfL Wolfsburg,SV Darmstadt 98,3 - 0,3,0
+283,Borussia Dortmund,FC Augsburg,5 - 1,5,1
+284,1. FC Köln,Sport-Club Freiburg,0 - 0,0,0
+285,1. FC Union Berlin,VfL Bochum 1848,3 - 4,3,4
+286,Eintracht Frankfurt,Bayer 04 Leverkusen,1 - 5,1,5
+287,1. FC Heidenheim 1846,1. FSV Mainz 05,1 - 1,1,1
+288,FC Augsburg,VfB Stuttgart,0 - 1,0,1
+289,1. FC Köln,1. FC Union Berlin,3 - 2,3,2
+290,Borussia Mönchengladbach,Eintracht Frankfurt,1 - 1,1,1
+291,Sport-Club Freiburg,1. FC Heidenheim 1846,1 - 1,1,1
+292,RB Leipzig,SV Werder Bremen,1 - 1,1,1
+293,1. FSV Mainz 05,Borussia Dortmund,3 - 0,3,0
+294,SV Darmstadt 98,TSG Hoffenheim,0 - 6,0,6
+295,FC Bayern München,VfL Wolfsburg,2 - 0,2,0
+296,VfL Bochum 1848,Bayer 04 Leverkusen,0 - 5,0,5
+297,1. FC Heidenheim 1846,1. FC Köln,4 - 1,4,1
+298,VfB Stuttgart,Borussia Mönchengladbach,4 - 0,4,0
+299,SV Werder Bremen,VfL Bochum 1848,4 - 1,4,1
+300,TSG Hoffenheim,FC Bayern München,4 - 2,4,2
+301,VfL Wolfsburg,1. FSV Mainz 05,1 - 3,1,3
+302,Eintracht Frankfurt,RB Leipzig,2 - 2,2,2
+303,Bayer 04 Leverkusen,FC Augsburg,2 - 1,2,1
+304,1. FC Union Berlin,Sport-Club Freiburg,2 - 1,2,1
+305,Borussia Dortmund,SV Darmstadt 98,4 - 0,4,0
+0,Borussia Mönchengladbach,Bayer 04 Leverkusen,2 - 3,2,3
+1,1. FSV Mainz 05,1. FC Union Berlin,1 - 1,1,1
+2,FC Augsburg,SV Werder Bremen,2 - 2,2,2
+3,SC Freiburg,VfB Stuttgart,3 - 1,3,1
+4,TSG Hoffenheim,Holstein Kiel,3 - 2,3,2
+5,RB Leipzig,VfL Bochum 1848,1 - 0,1,0
+6,Borussia Dortmund,Eintracht Frankfurt,2 - 0,2,0
+7,VfL Wolfsburg,FC Bayern München,2 - 3,2,3
+8,FC St. Pauli,1. FC Heidenheim 1846,0 - 2,0,2
+9,1. FC Union Berlin,FC St. Pauli,1 - 0,1,0
+10,Holstein Kiel,VfL Wolfsburg,0 - 2,0,2
+11,VfL Bochum 1848,Borussia Mönchengladbach,0 - 2,0,2
+12,SV Werder Bremen,Borussia Dortmund,0 - 0,0,0
+13,Eintracht Frankfurt,TSG Hoffenheim,3 - 1,3,1
+14,VfB Stuttgart,1. FSV Mainz 05,3 - 3,3,3
+15,Bayer 04 Leverkusen,RB Leipzig,2 - 3,2,3
+16,1. FC Heidenheim 1846,FC Augsburg,4 - 0,4,0
+17,FC Bayern München,SC Freiburg,2 - 0,2,0
+18,Borussia Dortmund,1. FC Heidenheim 1846,4 - 2,4,2
+19,Borussia Mönchengladbach,VfB Stuttgart,1 - 3,1,3
+20,VfL Wolfsburg,Eintracht Frankfurt,1 - 2,1,2
+21,SC Freiburg,VfL Bochum 1848,2 - 1,2,1
+22,TSG Hoffenheim,Bayer 04 Leverkusen,1 - 4,1,4
+23,RB Leipzig,1. FC Union Berlin,0 - 0,0,0
+24,Holstein Kiel,FC Bayern München,1 - 6,1,6
+25,FC Augsburg,FC St. Pauli,3 - 1,3,1
+26,1. FSV Mainz 05,SV Werder Bremen,1 - 2,1,2
+27,FC Augsburg,1. FSV Mainz 05,2 - 3,2,3
+28,VfL Bochum 1848,Holstein Kiel,2 - 2,2,2
+29,1. FC Union Berlin,TSG Hoffenheim,2 - 1,2,1
+30,SV Werder Bremen,FC Bayern München,0 - 5,0,5
+31,1. FC Heidenheim 1846,SC Freiburg,0 - 3,0,3
+32,Eintracht Frankfurt,Borussia Mönchengladbach,2 - 0,2,0
+33,Bayer 04 Leverkusen,VfL Wolfsburg,4 - 3,4,3
+34,VfB Stuttgart,Borussia Dortmund,5 - 1,5,1
+35,FC St. Pauli,RB Leipzig,0 - 0,0,0
+36,Borussia Dortmund,VfL Bochum 1848,4 - 2,4,2
+37,Borussia Mönchengladbach,1. FC Union Berlin,1 - 0,1,0
+38,1. FSV Mainz 05,1. FC Heidenheim 1846,0 - 2,0,2
+39,VfL Wolfsburg,VfB Stuttgart,2 - 2,2,2
+40,SC Freiburg,FC St. Pauli,0 - 3,0,3
+41,RB Leipzig,FC Augsburg,4 - 0,4,0
+42,FC Bayern München,Bayer 04 Leverkusen,1 - 1,1,1
+43,Holstein Kiel,Eintracht Frankfurt,2 - 4,2,4
+44,TSG Hoffenheim,SV Werder Bremen,3 - 4,3,4
+45,FC Augsburg,Borussia Mönchengladbach,2 - 1,2,1
+46,VfL Bochum 1848,VfL Wolfsburg,1 - 3,1,3
+47,1. FC Union Berlin,Borussia Dortmund,2 - 1,2,1
+48,SV Werder Bremen,SC Freiburg,0 - 1,0,1
+49,Bayer 04 Leverkusen,Holstein Kiel,2 - 2,2,2
+50,FC St. Pauli,1. FSV Mainz 05,0 - 3,0,3
+51,1. FC Heidenheim 1846,RB Leipzig,0 - 1,0,1
+52,Eintracht Frankfurt,FC Bayern München,3 - 3,3,3
+53,VfB Stuttgart,TSG Hoffenheim,1 - 1,1,1
+54,Borussia Dortmund,FC St. Pauli,2 - 1,2,1
+55,Borussia Mönchengladbach,1. FC Heidenheim 1846,3 - 2,3,2
+56,1. FSV Mainz 05,RB Leipzig,0 - 2,0,2
+57,SC Freiburg,FC Augsburg,3 - 1,3,1
+58,TSG Hoffenheim,VfL Bochum 1848,3 - 1,3,1
+59,Bayer 04 Leverkusen,Eintracht Frankfurt,2 - 1,2,1
+60,FC Bayern München,VfB Stuttgart,4 - 0,4,0
+61,Holstein Kiel,1. FC Union Berlin,0 - 2,0,2
+62,VfL Wolfsburg,SV Werder Bremen,2 - 4,2,4
+63,1. FSV Mainz 05,Borussia Mönchengladbach,1 - 1,1,1
+64,FC St. Pauli,VfL Wolfsburg,0 - 0,0,0
+65,FC Augsburg,Borussia Dortmund,2 - 1,2,1
+66,RB Leipzig,SC Freiburg,3 - 1,3,1
+67,VfB Stuttgart,Holstein Kiel,2 - 1,2,1
+68,SV Werder Bremen,Bayer 04 Leverkusen,2 - 2,2,2
+69,VfL Bochum 1848,FC Bayern München,0 - 5,0,5
+70,1. FC Union Berlin,Eintracht Frankfurt,1 - 1,1,1
+71,1. FC Heidenheim 1846,TSG Hoffenheim,0 - 0,0,0
+72,Bayer 04 Leverkusen,VfB Stuttgart,0 - 0,0,0
+73,Holstein Kiel,1. FC Heidenheim 1846,1 - 0,1,0
+74,VfL Wolfsburg,FC Augsburg,1 - 1,1,1
+75,TSG Hoffenheim,FC St. Pauli,0 - 2,0,2
+76,Eintracht Frankfurt,VfL Bochum 1848,7 - 2,7,2
+77,FC Bayern München,1. FC Union Berlin,3 - 0,3,0
+78,Borussia Dortmund,RB Leipzig,2 - 1,2,1
+79,SC Freiburg,1. FSV Mainz 05,0 - 0,0,0
+80,Borussia Mönchengladbach,SV Werder Bremen,4 - 1,4,1
+81,1. FC Union Berlin,SC Freiburg,0 - 0,0,0
+82,FC St. Pauli,FC Bayern München,0 - 1,0,1
+83,VfL Bochum 1848,Bayer 04 Leverkusen,1 - 1,1,1
+84,1. FSV Mainz 05,Borussia Dortmund,3 - 1,3,1
+85,SV Werder Bremen,Holstein Kiel,2 - 1,2,1
+86,RB Leipzig,Borussia Mönchengladbach,0 - 0,0,0
+87,FC Augsburg,TSG Hoffenheim,0 - 0,0,0
+88,VfB Stuttgart,Eintracht Frankfurt,2 - 3,2,3
+89,1. FC Heidenheim 1846,VfL Wolfsburg,1 - 3,1,3
+90,FC Bayern München,FC Augsburg,3 - 0,3,0
+91,VfL Wolfsburg,1. FC Union Berlin,1 - 0,1,0
+92,TSG Hoffenheim,RB Leipzig,4 - 3,4,3
+93,Borussia Dortmund,SC Freiburg,4 - 0,4,0
+94,VfB Stuttgart,VfL Bochum 1848,2 - 0,2,0
+95,Bayer 04 Leverkusen,1. FC Heidenheim 1846,5 - 2,5,2
+96,Eintracht Frankfurt,SV Werder Bremen,1 - 0,1,0
+97,Holstein Kiel,1. FSV Mainz 05,0 - 3,0,3
+98,Borussia Mönchengladbach,FC St. Pauli,2 - 0,2,0
+99,FC St. Pauli,Holstein Kiel,3 - 1,3,1
+100,1. FC Union Berlin,Bayer 04 Leverkusen,1 - 2,1,2
+101,FC Augsburg,VfL Bochum 1848,1 - 0,1,0
+102,SC Freiburg,Borussia Mönchengladbach,3 - 1,3,1
+103,SV Werder Bremen,VfB Stuttgart,2 - 2,2,2
+104,RB Leipzig,VfL Wolfsburg,1 - 5,1,5
+105,Borussia Dortmund,FC Bayern München,1 - 1,1,1
+106,1. FSV Mainz 05,TSG Hoffenheim,2 - 0,2,0
+107,1. FC Heidenheim 1846,Eintracht Frankfurt,0 - 4,0,4
+108,VfB Stuttgart,1. FC Union Berlin,3 - 2,3,2
+109,Holstein Kiel,RB Leipzig,0 - 2,0,2
+110,VfL Bochum 1848,SV Werder Bremen,0 - 1,0,1
+111,Eintracht Frankfurt,FC Augsburg,2 - 2,2,2
+112,FC Bayern München,1. FC Heidenheim 1846,4 - 2,4,2
+113,Bayer 04 Leverkusen,FC St. Pauli,2 - 1,2,1
+114,Borussia Mönchengladbach,Borussia Dortmund,1 - 1,1,1
+115,VfL Wolfsburg,1. FSV Mainz 05,4 - 3,4,3
+116,TSG Hoffenheim,SC Freiburg,1 - 1,1,1
+117,SC Freiburg,VfL Wolfsburg,3 - 2,3,2
+118,1. FC Union Berlin,VfL Bochum 1848,1 - 1,1,1
+119,Borussia Mönchengladbach,Holstein Kiel,4 - 1,4,1
+120,1. FSV Mainz 05,FC Bayern München,2 - 1,2,1
+121,FC Augsburg,Bayer 04 Leverkusen,0 - 2,0,2
+122,FC St. Pauli,SV Werder Bremen,0 - 2,0,2
+123,1. FC Heidenheim 1846,VfB Stuttgart,1 - 3,1,3
+124,Borussia Dortmund,TSG Hoffenheim,1 - 1,1,1
+125,RB Leipzig,Eintracht Frankfurt,2 - 1,2,1
+126,FC Bayern München,RB Leipzig,5 - 1,5,1
+127,Holstein Kiel,FC Augsburg,5 - 1,5,1
+128,SV Werder Bremen,1. FC Union Berlin,4 - 1,4,1
+129,TSG Hoffenheim,Borussia Mönchengladbach,1 - 2,1,2
+130,Eintracht Frankfurt,1. FSV Mainz 05,1 - 3,1,3
+131,VfB Stuttgart,FC St. Pauli,0 - 1,0,1
+132,Bayer 04 Leverkusen,SC Freiburg,5 - 1,5,1
+133,VfL Bochum 1848,1. FC Heidenheim 1846,2 - 0,2,0
+134,VfL Wolfsburg,Borussia Dortmund,1 - 3,1,3
+135,Borussia Dortmund,Bayer 04 Leverkusen,2 - 3,2,3
+136,FC St. Pauli,Eintracht Frankfurt,0 - 1,0,1
+137,1. FSV Mainz 05,VfL Bochum 1848,2 - 0,2,0
+138,SC Freiburg,Holstein Kiel,3 - 2,3,2
+139,1. FC Heidenheim 1846,1. FC Union Berlin,2 - 0,2,0
+140,TSG Hoffenheim,VfL Wolfsburg,0 - 1,0,1
+141,Borussia Mönchengladbach,FC Bayern München,0 - 1,0,1
+142,RB Leipzig,SV Werder Bremen,4 - 2,4,2
+143,FC Augsburg,VfB Stuttgart,0 - 1,0,1
+144,Holstein Kiel,Borussia Dortmund,4 - 2,4,2
+145,VfL Wolfsburg,Borussia Mönchengladbach,5 - 1,5,1
+146,Eintracht Frankfurt,SC Freiburg,4 - 1,4,1
+147,Bayer 04 Leverkusen,1. FSV Mainz 05,1 - 0,1,0
+148,VfL Bochum 1848,FC St. Pauli,1 - 0,1,0
+149,1. FC Union Berlin,FC Augsburg,0 - 2,0,2
+150,SV Werder Bremen,1. FC Heidenheim 1846,3 - 3,3,3
+151,FC Bayern München,TSG Hoffenheim,5 - 0,5,0
+152,VfB Stuttgart,RB Leipzig,2 - 1,2,1
+153,Eintracht Frankfurt,Borussia Dortmund,2 - 0,2,0
+154,Holstein Kiel,TSG Hoffenheim,1 - 3,1,3
+155,VfL Bochum 1848,RB Leipzig,3 - 3,3,3
+156,1. FC Heidenheim 1846,FC St. Pauli,0 - 2,0,2
+157,FC Bayern München,VfL Wolfsburg,3 - 2,3,2
+158,VfB Stuttgart,SC Freiburg,4 - 0,4,0
+159,Bayer 04 Leverkusen,Borussia Mönchengladbach,3 - 1,3,1
+160,1. FC Union Berlin,1. FSV Mainz 05,2 - 1,2,1
+161,SV Werder Bremen,FC Augsburg,0 - 2,0,2
+162,VfL Wolfsburg,Holstein Kiel,2 - 2,2,2
+163,1. FSV Mainz 05,VfB Stuttgart,2 - 0,2,0
+164,FC Augsburg,1. FC Heidenheim 1846,2 - 1,2,1
+165,SC Freiburg,FC Bayern München,1 - 2,1,2
+166,Borussia Dortmund,SV Werder Bremen,2 - 2,2,2
+167,RB Leipzig,Bayer 04 Leverkusen,2 - 2,2,2
+168,Borussia Mönchengladbach,VfL Bochum 1848,3 - 0,3,0
+169,TSG Hoffenheim,Eintracht Frankfurt,2 - 2,2,2
+170,FC St. Pauli,1. FC Union Berlin,3 - 0,3,0
+171,SV Werder Bremen,1. FSV Mainz 05,1 - 0,1,0
+172,FC St. Pauli,FC Augsburg,1 - 1,1,1
+173,VfL Bochum 1848,SC Freiburg,0 - 1,0,1
+174,1. FC Heidenheim 1846,Borussia Dortmund,1 - 2,1,2
+175,FC Bayern München,Holstein Kiel,4 - 3,4,3
+176,VfB Stuttgart,Borussia Mönchengladbach,1 - 2,1,2
+177,1. FC Union Berlin,RB Leipzig,0 - 0,0,0
+178,Eintracht Frankfurt,VfL Wolfsburg,1 - 1,1,1
+179,Bayer 04 Leverkusen,TSG Hoffenheim,3 - 1,3,1
+180,FC Bayern München,SV Werder Bremen,3 - 0,3,0
+181,1. FSV Mainz 05,FC Augsburg,0 - 0,0,0
+182,VfL Wolfsburg,Bayer 04 Leverkusen,0 - 0,0,0
+183,SC Freiburg,1. FC Heidenheim 1846,1 - 0,1,0
+184,TSG Hoffenheim,1. FC Union Berlin,0 - 4,0,4
+185,Borussia Dortmund,VfB Stuttgart,1 - 2,1,2
+186,Borussia Mönchengladbach,Eintracht Frankfurt,1 - 1,1,1
+187,Holstein Kiel,VfL Bochum 1848,2 - 2,2,2
+188,RB Leipzig,FC St. Pauli,2 - 0,2,0
+189,FC Augsburg,RB Leipzig,0 - 0,0,0
+190,FC St. Pauli,SC Freiburg,0 - 1,0,1
+191,VfL Bochum 1848,Borussia Dortmund,2 - 0,2,0
+192,1. FC Union Berlin,Borussia Mönchengladbach,1 - 2,1,2
+193,VfB Stuttgart,VfL Wolfsburg,1 - 2,1,2
+194,Bayer 04 Leverkusen,FC Bayern München,0 - 0,0,0
+195,SV Werder Bremen,TSG Hoffenheim,1 - 3,1,3
+196,Eintracht Frankfurt,Holstein Kiel,3 - 1,3,1
+197,1. FC Heidenheim 1846,1. FSV Mainz 05,0 - 2,0,2
+198,SC Freiburg,SV Werder Bremen,5 - 0,5,0
+199,Holstein Kiel,Bayer 04 Leverkusen,0 - 2,0,2
+200,Borussia Mönchengladbach,FC Augsburg,0 - 3,0,3
+201,1. FSV Mainz 05,FC St. Pauli,2 - 0,2,0
+202,VfL Wolfsburg,VfL Bochum 1848,1 - 1,1,1
+203,Borussia Dortmund,1. FC Union Berlin,6 - 0,6,0
+204,RB Leipzig,1. FC Heidenheim 1846,2 - 2,2,2
+205,FC Bayern München,Eintracht Frankfurt,4 - 0,4,0
+206,TSG Hoffenheim,VfB Stuttgart,1 - 1,1,1
+207,VfB Stuttgart,FC Bayern München,1 - 3,1,3
+208,FC St. Pauli,Borussia Dortmund,0 - 2,0,2
+209,VfL Bochum 1848,TSG Hoffenheim,0 - 1,0,1
+210,SV Werder Bremen,VfL Wolfsburg,1 - 2,1,2
+211,1. FC Heidenheim 1846,Borussia Mönchengladbach,0 - 3,0,3
+212,RB Leipzig,1. FSV Mainz 05,1 - 2,1,2
+213,Eintracht Frankfurt,Bayer 04 Leverkusen,1 - 4,1,4
+214,1. FC Union Berlin,Holstein Kiel,0 - 1,0,1
+215,FC Augsburg,SC Freiburg,0 - 0,0,0
+216,Borussia Mönchengladbach,1. FSV Mainz 05,1 - 3,1,3
+217,Holstein Kiel,VfB Stuttgart,2 - 2,2,2
+218,VfL Wolfsburg,FC St. Pauli,1 - 1,1,1
+219,Borussia Dortmund,FC Augsburg,0 - 1,0,1
+220,FC Bayern München,VfL Bochum 1848,2 - 3,2,3
+221,Bayer 04 Leverkusen,SV Werder Bremen,0 - 2,0,2
+222,SC Freiburg,RB Leipzig,0 - 0,0,0
+223,Eintracht Frankfurt,1. FC Union Berlin,1 - 2,1,2
+224,TSG Hoffenheim,1. FC Heidenheim 1846,1 - 1,1,1
+225,FC St. Pauli,TSG Hoffenheim,1 - 0,1,0
+226,1. FC Union Berlin,FC Bayern München,1 - 1,1,1
+227,1. FSV Mainz 05,SC Freiburg,2 - 2,2,2
+228,FC Augsburg,VfL Wolfsburg,1 - 0,1,0
+229,SV Werder Bremen,Borussia Mönchengladbach,2 - 4,2,4
+230,RB Leipzig,Borussia Dortmund,2 - 0,2,0
+231,VfL Bochum 1848,Eintracht Frankfurt,1 - 3,1,3
+232,1. FC Heidenheim 1846,Holstein Kiel,3 - 1,3,1
+233,VfB Stuttgart,Bayer 04 Leverkusen,3 - 4,3,4
+234,Bayer 04 Leverkusen,VfL Bochum 1848,3 - 1,3,1
+235,Holstein Kiel,SV Werder Bremen,0 - 3,0,3
+236,Borussia Mönchengladbach,RB Leipzig,1 - 0,1,0
+237,VfL Wolfsburg,1. FC Heidenheim 1846,0 - 1,0,1
+238,TSG Hoffenheim,FC Augsburg,1 - 1,1,1
+239,FC Bayern München,FC St. Pauli,3 - 2,3,2
+240,Eintracht Frankfurt,VfB Stuttgart,1 - 0,1,0
+241,SC Freiburg,1. FC Union Berlin,1 - 2,1,2
+242,Borussia Dortmund,1. FSV Mainz 05,3 - 1,3,1
+243,FC Augsburg,FC Bayern München,1 - 3,1,3
+244,VfL Bochum 1848,VfB Stuttgart,0 - 4,0,4
+245,1. FSV Mainz 05,Holstein Kiel,1 - 1,1,1
+246,SC Freiburg,Borussia Dortmund,1 - 4,1,4
+247,1. FC Heidenheim 1846,Bayer 04 Leverkusen,0 - 1,0,1
+248,RB Leipzig,TSG Hoffenheim,3 - 1,3,1
+249,SV Werder Bremen,Eintracht Frankfurt,2 - 0,2,0
+250,FC St. Pauli,Borussia Mönchengladbach,1 - 1,1,1
+251,1. FC Union Berlin,VfL Wolfsburg,1 - 0,1,0
+252,VfL Wolfsburg,RB Leipzig,2 - 3,2,3
+253,Holstein Kiel,FC St. Pauli,1 - 2,1,2
+254,VfL Bochum 1848,FC Augsburg,1 - 2,1,2
+255,Borussia Mönchengladbach,SC Freiburg,1 - 2,1,2
+256,TSG Hoffenheim,1. FSV Mainz 05,2 - 0,2,0
+257,Bayer 04 Leverkusen,1. FC Union Berlin,0 - 0,0,0
+258,FC Bayern München,Borussia Dortmund,2 - 2,2,2
+259,VfB Stuttgart,SV Werder Bremen,1 - 2,1,2
+260,Eintracht Frankfurt,1. FC Heidenheim 1846,3 - 0,3,0
+261,1. FSV Mainz 05,VfL Wolfsburg,2 - 2,2,2
+262,SC Freiburg,TSG Hoffenheim,3 - 2,3,2
+263,SV Werder Bremen,VfL Bochum 1848,1 - 0,1,0
+264,1. FC Heidenheim 1846,FC Bayern München,0 - 4,0,4
+265,RB Leipzig,Holstein Kiel,1 - 1,1,1
+266,1. FC Union Berlin,VfB Stuttgart,4 - 4,4,4
+267,FC Augsburg,Eintracht Frankfurt,0 - 0,0,0
+268,Borussia Dortmund,Borussia Mönchengladbach,3 - 2,3,2
+269,FC St. Pauli,Bayer 04 Leverkusen,1 - 1,1,1
+270,VfB Stuttgart,1. FC Heidenheim 1846,0 - 1,0,1
+271,Holstein Kiel,Borussia Mönchengladbach,4 - 3,4,3
+272,VfL Wolfsburg,SC Freiburg,0 - 1,0,1
+273,TSG Hoffenheim,Borussia Dortmund,2 - 3,2,3
+274,FC Bayern München,1. FSV Mainz 05,3 - 0,3,0
+275,Bayer 04 Leverkusen,FC Augsburg,2 - 0,2,0
+276,Eintracht Frankfurt,RB Leipzig,4 - 0,4,0
+277,VfL Bochum 1848,1. FC Union Berlin,1 - 1,1,1
+278,SV Werder Bremen,FC St. Pauli,0 - 0,0,0
+279,1. FC Heidenheim 1846,VfL Bochum 1848,0 - 0,0,0
+280,FC St. Pauli,VfB Stuttgart,0 - 1,0,1
+281,1. FC Union Berlin,SV Werder Bremen,2 - 2,2,2
+282,Borussia Mönchengladbach,TSG Hoffenheim,4 - 4,4,4
+283,RB Leipzig,FC Bayern München,3 - 3,3,3
+284,Borussia Dortmund,VfL Wolfsburg,4 - 0,4,0
+285,FC Augsburg,Holstein Kiel,1 - 3,1,3
+286,SC Freiburg,Bayer 04 Leverkusen,2 - 2,2,2
+287,1. FSV Mainz 05,Eintracht Frankfurt,1 - 1,1,1
+288,VfL Wolfsburg,TSG Hoffenheim,2 - 2,2,2
+289,Holstein Kiel,SC Freiburg,1 - 2,1,2
+290,VfL Bochum 1848,1. FSV Mainz 05,1 - 4,1,4
+291,1. FC Union Berlin,1. FC Heidenheim 1846,0 - 3,0,3
+292,SV Werder Bremen,RB Leipzig,0 - 0,0,0
+293,FC Bayern München,Borussia Mönchengladbach,2 - 0,2,0
+294,Bayer 04 Leverkusen,Borussia Dortmund,2 - 4,2,4
+295,Eintracht Frankfurt,FC St. Pauli,2 - 2,2,2
+296,VfB Stuttgart,FC Augsburg,4 - 0,4,0
+297,FC St. Pauli,VfL Bochum 1848,0 - 2,0,2
+298,Borussia Mönchengladbach,VfL Wolfsburg,0 - 1,0,1
+299,1. FSV Mainz 05,Bayer 04 Leverkusen,2 - 2,2,2
+300,FC Augsburg,1. FC Union Berlin,1 - 2,1,2
+301,SC Freiburg,Eintracht Frankfurt,1 - 3,1,3
+302,1. FC Heidenheim 1846,SV Werder Bremen,1 - 4,1,4
+303,TSG Hoffenheim,FC Bayern München,0 - 4,0,4
+304,Borussia Dortmund,Holstein Kiel,3 - 0,3,0
+305,RB Leipzig,VfB Stuttgart,2 - 3,2,3
+0,FC Bayern München,RB Leipzig,6 - 0,6,0
+1,1. FC Heidenheim 1846,VfL Wolfsburg,1 - 3,1,3
+2,1. FC Union Berlin,VfB Stuttgart,2 - 1,2,1
+3,Sport-Club Freiburg,FC Augsburg,1 - 3,1,3
+4,Eintracht Frankfurt,SV Werder Bremen,4 - 1,4,1
+5,Bayer 04 Leverkusen,TSG Hoffenheim,1 - 2,1,2
+6,FC St. Pauli,Borussia Dortmund,3 - 3,3,3
+7,1. FSV Mainz 05,1. FC Köln,0 - 1,0,1
+8,Borussia Mönchengladbach,Hamburger SV,0 - 0,0,0
+9,Hamburger SV,FC St. Pauli,0 - 2,0,2
+10,TSG Hoffenheim,Eintracht Frankfurt,1 - 3,1,3
+11,VfB Stuttgart,Borussia Mönchengladbach,1 - 0,1,0
+12,SV Werder Bremen,Bayer 04 Leverkusen,3 - 3,3,3
+13,RB Leipzig,1. FC Heidenheim 1846,2 - 0,2,0
+14,FC Augsburg,FC Bayern München,2 - 3,2,3
+15,VfL Wolfsburg,1. FSV Mainz 05,1 - 1,1,1
+16,Borussia Dortmund,1. FC Union Berlin,3 - 0,3,0
+17,1. FC Köln,Sport-Club Freiburg,4 - 1,4,1
